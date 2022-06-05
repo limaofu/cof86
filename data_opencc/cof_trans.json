@@ -1,0 +1,16 @@
+{
+  "name": "cof_trans",
+  "segmentation": {
+    "type": "mmseg",
+    "dict": {
+      "type": "text",
+      "file": "cof_trans.txt"
+    }
+  },
+  "conversion_chain": [{
+    "dict": {
+      "type": "text",
+      "file": "cof_trans.txt"
+    }
+  }]
+}
