@@ -1,0 +1,5395 @@
+CJK-ExtG漢字4939個
+𰀀	zui4
+𰀁	chuan4
+𰀂	nve4
+𰀃	mao2
+𰀃	mao4
+𰀄	wang2
+𰀅	shou2
+𰀅	shu2
+𰀆	gou1
+𰀆	ku2
+𰀇	kuai4
+𰀈	qing1
+𰀉	nang1
+𰀉	nang2
+𰀊	ping1
+𰀋	wei4
+𰀌
+𰀍
+𰀎	shang4
+𰀏
+𰀐	tian1
+𰀑	sai5
+𰀒	xie4
+𰀓	gui3
+𰀔	chu1
+𰀕	li4
+𰀖	lu3
+𰀗	yan2
+𰀘	hai4
+𰀙
+𰀚	wai1
+𰀛	chu1
+𰀜
+𰀝	bei4
+𰀞
+𰀟	luan4
+𰀠	bu3
+𰀠	ci4
+𰀡	jian1
+𰀡	qian1
+𰀡	xian2
+𰀢	lan3
+𰀣	fu2
+𰀤
+𰀥	huan4
+𰀦	pei2
+𰀧	chou2
+𰀨
+𰀩	zhu3
+𰀪	ye4
+𰀫	shu1
+𰀬	yang2
+𰀭	sheng4
+𰀮	ci4
+𰀯
+𰀰	qi2
+𰀰	qi4
+𰀱	li4
+𰀲
+𰀳	you2
+𰀴
+𰀵	yan2
+𰀶	chang2
+𰀷	jue2
+𰀸	mi2
+𰀹
+𰀺	yong3
+𰀻	tiao2
+𰀼	shi3
+𰀽
+𰀾	reng2
+𰀿
+𰁀
+𰁁
+𰁂
+𰁃	ruan3
+𰁄
+𰁅
+𰁆
+𰁇
+𰁈
+𰁉
+𰁊
+𰁋
+𰁌
+𰁍
+𰁎
+𰁏
+𰁐
+𰁑	dong4
+𰁒	chuan3
+𰁓	jing4
+𰁔
+𰁕	kong1
+𰁖	qi2
+𰁗	bo2
+𰁘	di3
+𰁙	er3
+𰁚
+𰁛
+𰁜	luan2
+𰁝	beng4
+𰁞	huai2
+𰁟
+𰁠
+𰁡	ru2
+𰁢
+𰁣
+𰁤	yi1
+𰁥	wang3
+𰁦	you1
+𰁧	shuang3
+𰁧	song3
+𰁨	pian4
+𰁩	kui2
+𰁪	shuang1
+𰁫
+𰁬	ju4
+𰁭
+𰁮	po4
+𰁯	yin3
+𰁰	fo2
+𰁱	an3
+𰁲	zhi2
+𰁳	qu1
+𰁴
+𰁵	hui4
+𰁶	dai4
+𰁷
+𰁸	dang1
+𰁸	dang4
+𰁹
+𰁺	ling4
+𰁻	yu3
+𰁼	xiang4
+𰁽	ye4
+𰁾	fu4
+𰁿	cang1
+𰁿	lin3
+𰂀	hou4
+𰂁
+𰂂	di1
+𰂃	xun2
+𰂄	di1
+𰂅	xian1
+𰂆	tiao1
+𰂇	pei4
+𰂈	nu2
+𰂉	zhou1
+𰂊	lin4
+𰂋	xian4
+𰂌	qi3
+𰂍	jun4
+𰂎	xian4
+𰂏	di2
+𰂏	du2
+𰂏	yu4
+𰂐
+𰂑
+𰂒
+𰂓
+𰂔
+𰂕	ji2
+𰂖	jie4
+𰂗	di4
+𰂘	xing4
+𰂙	yu2
+𰂚
+𰂛
+𰂜	tui2
+𰂜	tui3
+𰂝	san3
+𰂞
+𰂟	ji3
+𰂠	zhou1
+𰂡
+𰂢	e4
+𰂣	fo2
+𰂤
+𰂥
+𰂦	lv3
+𰂧	shun4
+𰂨
+𰂩
+𰂪
+𰂫	yun4
+𰂬	seng1
+𰂭	si4
+𰂮	zhi4
+𰂯
+𰂰
+𰂱
+𰂲
+𰂳
+𰂴	ye2
+𰂵	chou2
+𰂶
+𰂷	zi1
+𰂸	xiang4
+𰂹	jian3
+𰂺
+𰂻	ying4
+𰂼	chan2
+𰂼	chan4
+𰂽	jie4
+𰂾	shi4
+𰂿	gui1
+𰃀
+𰃁
+𰃂
+𰃃
+𰃄
+𰃅
+𰃆	zan3
+𰃇
+𰃈	tu2
+𰃉
+𰃊	zhao4
+𰃋	ji2
+𰃌
+𰃍	hong1
+𰃎	dou1
+𰃏	zhong3
+𰃐
+𰃑
+𰃒
+𰃓
+𰃔
+𰃕
+𰃖	shi3
+𰃗	shi2
+𰃘	xia2
+𰃙
+𰃚
+𰃛
+𰃜
+𰃝	zun1
+𰃞	shi3
+𰃟
+𰃠	qi2
+𰃠	qu2
+𰃡
+𰃢	xun2
+𰃣
+𰃤	xiu1
+𰃥
+𰃦	jiong1
+𰃦	men2
+𰃧	wang3
+𰃨	wang3
+𰃩	ce4
+𰃪	gang1
+𰃫	jiong1
+𰃬
+𰃭	jing1
+𰃮	xue2
+𰃯	san3
+𰃰	zi1
+𰃱	zi1
+𰃲
+𰃳	gan3
+𰃴	gan3
+𰃵	shi2
+𰃶	feng1
+𰃷	cang1
+𰃸
+𰃹
+𰃺	bo1
+𰃻	bi4
+𰃼
+𰃽
+𰃾
+𰃿	du2
+𰄀
+𰄁	shen4
+𰄂
+𰄃
+𰄄
+𰄅
+𰄆
+𰄇
+𰄈
+𰄉
+𰄊
+𰄋
+𰄌
+𰄍
+𰄎
+𰄏
+𰄐
+𰄑
+𰄒	si4
+𰄓
+𰄔	ai4
+𰄔	se4
+𰄕
+𰄖
+𰄗
+𰄘	ji4
+𰄙
+𰄚	diao1
+𰄛
+𰄜	bo1
+𰄝	ti1
+𰄞	tuan2
+𰄞	zhuan1
+𰄞	zhuan4
+𰄟
+𰄠
+𰄡	wen3
+𰄢
+𰄣
+𰄤
+𰄥
+𰄦
+𰄧
+𰄨	ku1
+𰄩	yi4
+𰄪
+𰄫
+𰄬
+𰄭	li2
+𰄮
+𰄯	chi4
+𰄰	ting4
+𰄱
+𰄲
+𰄳
+𰄴
+𰄵
+𰄶
+𰄷
+𰄸
+𰄹
+𰄺
+𰄻
+𰄼
+𰄽
+𰄾	chuang3
+𰄿
+𰅀
+𰅁
+𰅂
+𰅃
+𰅄
+𰅅
+𰅆
+𰅇
+𰅈
+𰅉	qin2
+𰅊	liang2
+𰅊	liang4
+𰅋
+𰅌
+𰅍	chi4
+𰅎
+𰅏
+𰅐	meng3
+𰅑	geng1
+𰅒
+𰅓	qi4
+𰅔	lv4
+𰅕	cao2
+𰅖
+𰅗
+𰅘
+𰅙
+𰅚
+𰅛	ju1
+𰅜	hu1
+𰅝
+𰅞
+𰅟
+𰅠
+𰅡	bi4
+𰅢
+𰅣
+𰅤	tao2
+𰅤	wei3
+𰅥	du2
+𰅦	dan1
+𰅧
+𰅨
+𰅩	kui4
+𰅪
+𰅫	xi4
+𰅬	po3
+𰅭	wu3
+𰅮	yun
+𰅯	ji4
+𰅰	zhi2
+𰅱	qin2
+𰅲	ban1
+𰅳	nie4
+𰅳	xing4
+𰅴	zhen1
+𰅵	pi2
+𰅶	jing1
+𰅷	nao3
+𰅸	zhang4
+𰅹	chu4
+𰅺
+𰅻	xia2
+𰅼
+𰅽	zhen1
+𰅾	pang1
+𰅿
+𰆀	zao3
+𰆁
+𰆂	zao3
+𰆃	yin1
+𰆄	zhuan1
+𰆅	si4
+𰆆	heng2
+𰆇	xie4
+𰆈	heng2
+𰆉	kui4
+𰆊	bu4
+𰆋	zhuan4
+𰆌
+𰆍	yu4
+𰆎
+𰆏
+𰆐
+𰆑
+𰆒
+𰆓	xi1
+𰆔
+𰆕	wei1
+𰆖	yuan2
+𰆗	wen2
+𰆘	ren2
+𰆙	li2
+𰆙	tai2
+𰆚	lan2
+𰆚	qian1
+𰆛
+𰆜	shu1
+𰆝	hou4
+𰆞	yi4
+𰆟	jian1
+𰆠
+𰆡	jue2
+𰆢	jue2
+𰆣	jue2
+𰆤	jiu4
+𰆥	pang2
+𰆦	luan4
+𰆧	tiao1
+𰆨	shu4
+𰆩	jue2
+𰆪	yan4
+𰆫
+𰆬	yuan2
+𰆭	fa2
+𰆮	bian4
+𰆯
+𰆰	zhi1
+𰆱
+𰆲	you3
+𰆲	you4
+𰆳	xue1
+𰆴
+𰆵
+𰆶
+𰆷	guai4
+𰆸	de2
+𰆹
+𰆺	zuo4
+𰆻	xie2
+𰆼	fu4
+𰆽
+𰆾
+𰆿	pi2
+𰇀	gai4
+𰇀	hai4
+𰇁
+𰇂	zhou4
+𰇃
+𰇃	sang1
+𰇄
+𰇅	xi1
+𰇆
+𰇇
+𰇈
+𰇉	hong2
+𰇊
+𰇊	bo2
+𰇋
+𰇋	tong2
+𰇌	jiu4
+𰇍
+𰇎	dong3
+𰇏	mu4
+𰇐	tian1
+𰇐	xi4
+𰇑
+𰇒
+𰇓
+𰇔
+𰇕	jia2
+𰇕	qian3
+𰇖	dong4
+𰇖	hong2
+𰇖	hong4
+𰇗
+𰇘	ji1
+𰇙
+𰇚
+𰇛
+𰇜
+𰇝	shi1
+𰇞
+𰇟	shang1
+𰇠	jia1
+𰇠	jialun
+𰇡	he2
+𰇢	sang3
+𰇣	xi4
+𰇤
+𰇥
+𰇦
+𰇧
+𰇨
+𰇩	bai4
+𰇪	e4
+𰇫	yi4
+𰇬
+𰇭	an1
+𰇭	yan1
+𰇮
+𰇯
+𰇰	zhu3
+𰇱
+𰇲	tan3
+𰇳
+𰇴
+𰇵
+𰇶	gu4
+𰇷
+𰇸
+𰇹
+𰇺
+𰇻
+𰇼	can4
+𰇼	shan1
+𰇽
+𰇾	zhu3
+𰇿
+𰈀
+𰈁
+𰈂	zhi4
+𰈃
+𰈄
+𰈅
+𰈆	lan3
+𰈇	chang2
+𰈈	ti2
+𰈉
+𰈊
+𰈋
+𰈌
+𰈍	chen4
+𰈎	ji4
+𰈏
+𰈐	nao3
+𰈑
+𰈒	nv3
+𰈓	han3
+𰈓	lan4
+𰈔	hun4
+𰈕
+𰈖
+𰈗
+𰈘
+𰈙
+𰈚
+𰈛
+𰈜
+𰈝	mei3
+𰈞
+𰈟
+𰈠
+𰈡	bie1
+𰈢	da2
+𰈣	xiu1
+𰈤
+𰈥
+𰈦
+𰈧
+𰈨
+𰈩
+𰈪
+𰈫	gu3
+𰈬	e4
+𰈭	jiao4
+𰈮	ke4
+𰈯	e4
+𰈯	nie4
+𰈯	yan4
+𰈯	za2
+𰈰
+𰈱
+𰈲
+𰈳	jiao2
+𰈳	jiao3
+𰈴
+𰈵
+𰈶	mo2
+𰈷
+𰈸	ju1
+𰈹
+𰈺	shao4
+𰈺	tao2
+𰈻
+𰈼	yin4
+𰈽
+𰈾
+𰈿
+𰉀	jia4
+𰉁	yan2
+𰉂
+𰉃
+𰉄	can1
+𰉄	za2
+𰉄	zan4
+𰉅
+𰉆
+𰉇
+𰉈
+𰉉
+𰉊
+𰉋	yu3
+𰉌
+𰉍
+𰉎
+𰉏	zhan4
+𰉐	si4
+𰉑	yu3
+𰉒	se4
+𰉓
+𰉔
+𰉕
+𰉖
+𰉗	gui4
+𰉗	zuo4
+𰉘	han2
+𰉘	wei3
+𰉙	gang1
+𰉚	xian4
+𰉛
+𰉜
+𰉝
+𰉞	yin3
+𰉟
+𰉠	fa2
+𰉡	tong2
+𰉢
+𰉣	tu2
+𰉣	yi4
+𰉤
+𰉥	jia1
+𰉥	xia2
+𰉦	you3
+𰉧
+𰉧	ya1
+𰉨
+𰉩	qiao2
+𰉩	que4
+𰉪	ye4
+𰉫	yang3
+𰉬	su4
+𰉭	xun2
+𰉮
+𰉯	cheng2
+𰉰	tian2
+𰉱	jian3
+𰉲	wan3
+𰉳
+𰉴
+𰉵	keng1
+𰉵	wei3
+𰉶
+𰉷	tao2
+𰉸	ji4
+𰉹
+𰉺	ju2
+𰉻	shou4
+𰉼
+𰉽	bo2
+𰉽	jue2
+𰉽	xue2
+𰉾	xie4
+𰉿	jun4
+𰉿	shun4
+𰊀
+𰊁
+𰊂	di4
+𰊂	zhi4
+𰊃	qiang2
+𰊄	sheng3
+𰊅	zhan4
+𰊆
+𰊇
+𰊈	qiang3
+𰊉
+𰊊	zi1
+𰊋
+𰊌
+𰊌	ni2
+𰊍
+𰊎
+𰊏	bao3
+𰊐
+𰊑	lan4
+𰊑	xian4
+𰊒	ni2
+𰊓	cheng2
+𰊔
+𰊕
+𰊖
+𰊗	yi4
+𰊘	sun1
+𰊙
+𰊚
+𰊛	gui4
+𰊛	kui2
+𰊜	ji4
+𰊝
+𰊞
+𰊟	man2
+𰊠	chang2
+𰊡	yan2
+𰊢	qian4
+𰊣
+𰊤	chen2
+𰊥
+𰊦
+𰊧
+𰊨
+𰊩
+𰊪	yin4
+𰊫
+𰊬	she2
+𰊭
+𰊮
+𰊯	fu4
+𰊰	kai3
+𰊱
+𰊱	cu4
+𰊲
+𰊳
+𰊴
+𰊵
+𰊶	wan4
+𰊷	cheng2
+𰊸
+𰊹
+𰊺	chang2
+𰊻
+𰊼	lu2
+𰊽	hao4
+𰊾	xun1
+𰊿
+𰋀	qi2
+𰋀	yin2
+𰋁
+𰋂	pu2
+𰋃
+𰋄
+𰋅	bu4
+𰋆	dang3
+𰋇
+𰋈
+𰋉	xi3
+𰋊
+𰋋
+𰋌
+𰋍
+𰋎
+𰋏	fu4
+𰋐
+𰋑
+𰋒
+𰋓
+𰋔	zhou4
+𰋕
+𰋖	lou3
+𰋗
+𰋘
+𰋙	ju4
+𰋚
+𰋛	tao4
+𰋜	shuang3
+𰋝
+𰋞	zheng3
+𰋟	chong2
+𰋠	chun1
+𰋡
+𰋢
+𰋣	cong2
+𰋤
+𰋥
+𰋦
+𰋧	fen2
+𰋨	bi4
+𰋩	jiao3
+𰋪
+𰋫
+𰋬
+𰋭
+𰋮	qian2
+𰋯
+𰋰
+𰋱
+𰋲	beng4
+𰋳
+𰋴
+𰋵	an1
+𰋵	yan1
+𰋶	jia1
+𰋶	la4
+𰋶	xiao4
+𰋷	ying1
+𰋸	dang4
+𰋸	yang2
+𰋹	tuan2
+𰋹	zhuan1
+𰋺
+𰋻	mei4
+𰋼
+𰋽	yan1
+𰋽	yan4
+𰋾	bi4
+𰋿
+𰌀	xing1
+𰌀	ying1
+𰌀	ying2
+𰌁	mei3
+𰌂	zheng1
+𰌃
+𰌄
+𰌅
+𰌆	can2
+𰌆	qian4
+𰌇	ce4
+𰌇	ze2
+𰌈
+𰌉	ying2
+𰌉	yun4
+𰌊
+𰌋
+𰌌	jian1
+𰌍	xing4
+𰌎
+𰌏
+𰌐
+𰌑
+𰌒	pi4
+𰌓
+𰌔
+𰌕
+𰌖	ning2
+𰌗
+𰌘
+𰌙	lan3
+𰌚	ao4
+𰌛
+𰌜
+𰌝
+𰌞	mian3
+𰌟
+𰌠
+𰌡	zi1
+𰌢
+𰌣
+𰌤
+𰌥
+𰌦	ya1
+𰌧
+𰌨
+𰌩	li3
+𰌩	shi3
+𰌩	shi4
+𰌪
+𰌫
+𰌬
+𰌭
+𰌮
+𰌯
+𰌰
+𰌱	can4
+𰌱	chan2
+𰌲
+𰌳	han2
+𰌴	kong1
+𰌵	cha2
+𰌶
+𰌷	wei2
+𰌷	wei3
+𰌸
+𰌹
+𰌺
+𰌻	zhai4
+𰌼
+𰌽	bin1
+𰌾	bin1
+𰌿
+𰍀	jia1
+𰍁
+𰍂	kou4
+𰍃
+𰍄	dui1
+𰍅
+𰍆
+𰍇
+𰍈	kou4
+𰍉
+𰍊
+𰍋
+𰍌
+𰍍
+𰍎	dian4
+𰍏
+𰍐
+𰍑
+𰍒	miao2
+𰍓	huai2
+𰍔	yao2
+𰍕	kou4
+𰍖	hu1
+𰍗
+𰍘	miao4
+𰍙	kou4
+𰍚
+𰍛
+𰍜	ji2
+𰍝	xiao4
+𰍞
+𰍟	zao4
+𰍠	ning2
+𰍡
+𰍢	huo4
+𰍢	rong2
+𰍣
+𰍤
+𰍥
+𰍦
+𰍧	ping1
+𰍨	bu3
+𰍨	pang1
+𰍩
+𰍪
+𰍫
+𰍬
+𰍭
+𰍮
+𰍯
+𰍰	zhan3
+𰍱	shu3
+𰍱	zhu3
+𰍲
+𰍳
+𰍴
+𰍵
+𰍶	xu4
+𰍷
+𰍸	ji4
+𰍹
+𰍺
+𰍻	chua2
+𰍼
+𰍽	lou4
+𰍾	qu1
+𰍿	qi4
+𰎀
+𰎁
+𰎂	niao4
+𰎃
+𰎄
+𰎅
+𰎆
+𰎇
+𰎈	zou4
+𰎉
+𰎊	yin4
+𰎋
+𰎌	song3
+𰎍
+𰎎	long2
+𰎏	dong1
+𰎏	dong4
+𰎐	lu2
+𰎑	ye4
+𰎒
+𰎓	ao4
+𰎔	yao2
+𰎕
+𰎖	ze4
+𰎗
+𰎘
+𰎙
+𰎚
+𰎛	kuai4
+𰎜	jiao1
+𰎝	hun2
+𰎞	nao2
+𰎟	xia2
+𰎠	yan2
+𰎡
+𰎢	wei2
+𰎣	qi3
+𰎤	qiong2
+𰎥
+𰎦	gu3
+𰎧
+𰎨	ji1
+𰎩
+𰎪	xiao2
+𰎫	yue4
+𰎬	ba1
+𰎭
+𰎮	gang3
+𰎯	jun4
+𰎰	qiao4
+𰎱
+𰎲
+𰎳
+𰎴	jun4
+𰎵	e4
+𰎶	e4
+𰎷	e2
+𰎸
+𰎹	yan3
+𰎺
+𰎻	xi1
+𰎼	gu3
+𰎽	e4
+𰎾
+𰎿	ci1
+𰎿	cuo1
+𰏀
+𰏁	cuan2
+𰏂
+𰏃
+𰏄	xun4
+𰏅
+𰏆	di1
+𰏇
+𰏈	gong1
+𰏈	gu3
+𰏉
+𰏊
+𰏋
+𰏌
+𰏍
+𰏎
+𰏏
+𰏐
+𰏑
+𰏒	cao3
+𰏓	wu4
+𰏔	hang4
+𰏔	kang1
+𰏕	jian1
+𰏕	jian3
+𰏕	san4
+𰏖
+𰏗	hui4
+𰏘	bi4
+𰏙
+𰏚
+𰏛	zi1
+𰏜	lou2
+𰏜	lv3
+𰏝
+𰏞	zhi4
+𰏟	lan2
+𰏠
+𰏡
+𰏢
+𰏣
+𰏤	bing4
+𰏥
+𰏦	ting2
+𰏧
+𰏨
+𰏩	shu4
+𰏪
+𰏫
+𰏬
+𰏭
+𰏮
+𰏯
+𰏰	zhi4
+𰏱	jiu1
+𰏲	ma4
+𰏳
+𰏴	chi4
+𰏵	huang3
+𰏶	kuai4
+𰏷
+𰏸	hui2
+𰏹
+𰏺
+𰏻
+𰏼	dai4
+𰏽	yi4
+𰏾
+𰏿
+𰐀	zhi4
+𰐁
+𰐂
+𰐃	qiang2
+𰐃	se4
+𰐄
+𰐅
+𰐆
+𰐇	nong4
+𰐈
+𰐉	bi4
+𰐊
+𰐋
+𰐌
+𰐍	dai4
+𰐎	han4
+𰐏	yong3
+𰐐	shi4
+𰐑	xi2
+𰐒	zhuo2
+𰐓	qiang2
+𰐔	dan4
+𰐔	tan2
+𰐕
+𰐖
+𰐗
+𰐘	qiang2
+𰐙
+𰐚	yu2
+𰐛
+𰐜
+𰐝	fu3
+𰐞	jiang4
+𰐟	mo4
+𰐠
+𰐡
+𰐢
+𰐣
+𰐤	hui4
+𰐥
+𰐦
+𰐧
+𰐨	ping2
+𰐩	cai3
+𰐪
+𰐫
+𰐬
+𰐭	bo2
+𰐮
+𰐯	bao3
+𰐰	zhuan1
+𰐱
+𰐲
+𰐳	chi2
+𰐳	ti2
+𰐴
+𰐵
+𰐶	hou4
+𰐷
+𰐸	xian3
+𰐹	chan2
+𰐺	yi4
+𰐻
+𰐼	ren2
+𰐽	si1
+𰐾	kuang3
+𰐿	ti4
+𰑀	ai4
+𰑁	tuan2
+𰑂	gang1
+𰑃
+𰑄	lun2
+𰑄	lun4
+𰑅
+𰑆	niu2
+𰑇	zhao1
+𰑈	fei2
+𰑉	xiong1
+𰑊	qing2
+𰑋	te4
+𰑌	ju4
+𰑍
+𰑎	xi3
+𰑏
+𰑐	lan3
+𰑑	ji2
+𰑒	bi4
+𰑓
+𰑔	zhe2
+𰑔	zhi2
+𰑕	yan1
+𰑖
+𰑗	shi1
+𰑘	yang4
+𰑙	liu2
+𰑙	liu3
+𰑚
+𰑛	cha4
+𰑜
+𰑝	shen4
+𰑞	han4
+𰑟	gong1
+𰑟	gong4
+𰑟	hong3
+𰑠
+𰑡
+𰑢	ren2
+𰑣
+𰑤	hong2
+𰑥	xian2
+𰑥	xian4
+𰑦
+𰑧	can2
+𰑨
+𰑩
+𰑪	sheng2
+𰑫	luo3
+𰑬	zhi4
+𰑭	min3
+𰑮
+𰑯	can3
+𰑰
+𰑱	hou4
+𰑲
+𰑳	nan2
+𰑴	se4
+𰑵	chi4
+𰑵	di4
+𰑶
+𰑷
+𰑸	yi4
+𰑹
+𰑺	tian2
+𰑻	yi4
+𰑼	shan4
+𰑽
+𰑾	li4
+𰑿	tang3
+𰒀	zhi2
+𰒁
+𰒂	suo1
+𰒃	qi2
+𰒄
+𰒅
+𰒆	man2
+𰒇	duo4
+𰒈
+𰒉
+𰒊
+𰒋
+𰒌	cong1
+𰒍	que4
+𰒎	ji2
+𰒏
+𰒐
+𰒑	qian4
+𰒑	qie4
+𰒒	chi4
+𰒓
+𰒔
+𰒕	wei4
+𰒖	miao3
+𰒗
+𰒘	que4
+𰒙
+𰒚
+𰒛
+𰒜
+𰒝	bo2
+𰒞
+𰒟	pa4
+𰒠
+𰒡	lian2
+𰒢
+𰒢	mie4
+𰒣
+𰒣	quan4
+𰒤
+𰒥
+𰒦	dong1
+𰒧	jie4
+𰒨	ji3
+𰒩	gan1
+𰒪	yu4
+𰒪	zhu1
+𰒫	chun3
+𰒬	jian1
+𰒭	zei2
+𰒮
+𰒯	li4
+𰒰	di2
+𰒱	jiao3
+𰒲	bei4
+𰒳
+𰒴
+𰒵
+𰒶
+𰒷
+𰒸	kou4
+𰒹
+𰒺
+𰒻
+𰒼	sa1
+𰒼	sa3
+𰒽
+𰒽	wan4
+𰒾
+𰒿	jiu4
+𰓀	di3
+𰓁
+𰓂
+𰓃
+𰓄	cheng2
+𰓅	shi2
+𰓆	wu3
+𰓇
+𰓈
+𰓉	ju3
+𰓊	xie2
+𰓋
+𰓌	nang3
+𰓍
+𰓎
+𰓏
+𰓐
+𰓑
+𰓒
+𰓓	jue2
+𰓔	shan3
+𰓔	shan4
+𰓕	tou2
+𰓖
+𰓗	ya1
+𰓘	gong3
+𰓙	ye4
+𰓚
+𰓛
+𰓜	jie2
+𰓜	zhi4
+𰓝	shi1
+𰓞
+𰓟	za2
+𰓠
+𰓡	yi4
+𰓢	zun3
+𰓣	ca1
+𰓤
+𰓥
+𰓦
+𰓧	sun1
+𰓨	sang3
+𰓩	tuo1
+𰓪
+𰓫
+𰓬	li4
+𰓬	shai4
+𰓭	han4
+𰓮
+𰓯
+𰓰
+𰓱	keng1
+𰓱	qian1
+𰓲
+𰓳	guai1
+𰓴	tao1
+𰓵
+𰓶
+𰓷	ruan2
+𰓷	rui2
+𰓷	run2
+𰓷	ruo2
+𰓷	sui1
+𰓸
+𰓹	shu1
+𰓺
+𰓻	gui1
+𰓼	can2
+𰓼	chan4
+𰓽
+𰓾	gang1
+𰓿
+𰔀
+𰔁	chuai1
+𰔂	yuan1
+𰔃
+𰔄	cheng2
+𰔅
+𰔆
+𰔇	di4
+𰔇	tu2
+𰔇	zhi2
+𰔈	zai1
+𰔉	qiang2
+𰔊
+𰔋	gui4
+𰔌
+𰔍
+𰔎
+𰔏	ao3
+𰔏	ao4
+𰔏	niu4
+𰔐
+𰔑
+𰔒
+𰔓
+𰔔
+𰔕	gou4
+𰔖
+𰔗
+𰔘	bing1
+𰔙
+𰔚
+𰔛	liao4
+𰔜	shuai1
+𰔝
+𰔞	cuan1
+𰔟
+𰔠
+𰔡	liao4
+𰔡	lue4
+𰔢
+𰔣
+𰔤	jiao3
+𰔥
+𰔦	shun4
+𰔧	zhu4
+𰔨
+𰔩	qiang2
+𰔪	chu3
+𰔫	den4
+𰔬	liao1
+𰔬	liao2
+𰔭
+𰔮
+𰔯	biao1
+𰔯	biao4
+𰔰
+𰔱
+𰔲	qian1
+𰔳	duo3
+𰔴	guan1
+𰔵
+𰔶	yu2
+𰔷	pie1
+𰔸
+𰔹
+𰔺	du3
+𰔻	jian3
+𰔼	jun1
+𰔽
+𰔾
+𰔿
+𰕀
+𰕁	xun2
+𰕂
+𰕃	kao3
+𰕄
+𰕅	ou1
+𰕅	qu1
+𰕆	fang4
+𰕇
+𰕈	jiao1
+𰕉	yi4
+𰕊	gan3
+𰕋	chang3
+𰕌
+𰕍
+𰕎	zhi4
+𰕏
+𰕐	xie2
+𰕑	yu4
+𰕒	cheng1
+𰕓	mu4
+𰕔	jing4
+𰕕	dong4
+𰕕	ji1
+𰕖
+𰕗	bai4
+𰕘	lv4
+𰕙
+𰕚
+𰕛	nuo4
+𰕜
+𰕝
+𰕞	bian4
+𰕟	zhu2
+𰕠	duan4
+𰕡	shen2
+𰕡	shen4
+𰕢	zhuo2
+𰕣
+𰕤	duan4
+𰕥
+𰕦
+𰕧
+𰕨	zhao4
+𰕩
+𰕪
+𰕫
+𰕬	qian2
+𰕭	kuai4
+𰕮
+𰕯
+𰕰	ji4
+𰕱
+𰕲	jun1
+𰕳
+𰕴
+𰕵	li4
+𰕶	tou2
+𰕷
+𰕸
+𰕹
+𰕺	qing2
+𰕻
+𰕼
+𰕽	mu3
+𰕾	shu3
+𰕿
+𰖀
+𰖁
+𰖂
+𰖃	shi2
+𰖄	ang2
+𰖅
+𰖆	cheng2
+𰖇
+𰖈	yan3
+𰖉
+𰖊
+𰖋	dong1
+𰖌
+𰖍	dong1
+𰖎	chang2
+𰖏
+𰖐
+𰖑
+𰖒
+𰖓
+𰖔
+𰖕
+𰖖	geng3
+𰖗	mi4
+𰖘	hun1
+𰖙
+𰖚
+𰖛
+𰖜	cai2
+𰖝
+𰖞
+𰖟
+𰖠	nan4
+𰖡
+𰖢	di4
+𰖣
+𰖤	chang2
+𰖥	zhao4
+𰖦	zhao4
+𰖧
+𰖨	zhi4
+𰖩	li2
+𰖪
+𰖫	chi4
+𰖬	tun1
+𰖭
+𰖮
+𰖯
+𰖰	qu3
+𰖱	sui4
+𰖲	jian3
+𰖲	lian3
+𰖳
+𰖴	can2
+𰖵
+𰖶
+𰖷
+𰖸
+𰖹
+𰖺
+𰖻	luan2
+𰖼
+𰖽
+𰖾
+𰖿	meng2
+𰗀	lu3
+𰗁	jian4
+𰗂
+𰗃
+𰗄	qi2
+𰗅
+𰗆	sa4
+𰗆	sui4
+𰗇
+𰗈
+𰗉	lue4
+𰗊
+𰗋	han4
+𰗋	xian4
+𰗌	ju4
+𰗍	zhang1
+𰗎
+𰗏	rao2
+𰗐
+𰗑	sang1
+𰗒
+𰗓	gu3
+𰗓	guang4
+𰗓	guo3
+𰗓	huang3
+𰗔
+𰗕	cai3
+𰗖	lun2
+𰗗
+𰗘	jian4
+𰗙	chou1
+𰗚	xie3
+𰗛	shi4
+𰗛	tu2
+𰗛	zhai2
+𰗜	yan3
+𰗝	zhi2
+𰗞
+𰗟
+𰗠
+𰗡	chan3
+𰗡	shan4
+𰗢	hui1
+𰗣	za2
+𰗤	yu3
+𰗥
+𰗦	jin3
+𰗧	li4
+𰗨	shi2
+𰗩
+𰗪
+𰗫	chou2
+𰗬	qian1
+𰗭	mao4
+𰗮
+𰗯
+𰗰
+𰗱
+𰗲
+𰗳
+𰗴
+𰗵	shen3
+𰗶	liu2
+𰗷	song1
+𰗸
+𰗹	qiu1
+𰗹	su4
+𰗹	xiao1
+𰗺	fei4
+𰗺	fen2
+𰗺	fen4
+𰗻	ying1
+𰗼	xing1
+𰗽
+𰗾
+𰗿	yan3
+𰘀	dai4
+𰘁
+𰘂	lou2
+𰘃
+𰘄
+𰘅	luo4
+𰘆
+𰘇
+𰘈	ju2
+𰘉
+𰘊	guo3
+𰘊	huo3
+𰘋	huo3
+𰘌
+𰘍	qian4
+𰘎
+𰘏
+𰘐
+𰘑
+𰘒	jue2
+𰘓	qing3
+𰘔
+𰘕	hun1
+𰘖
+𰘗	qi4
+𰘘
+𰘙
+𰘚	zao3
+𰘛
+𰘜
+𰘝
+𰘞
+𰘟	mu4
+𰘠	yan2
+𰘠	yan3
+𰘡	xuan4
+𰘢	zui1
+𰘣	mian2
+𰘤
+𰘥
+𰘦
+𰘧
+𰘨
+𰘩	qiu1
+𰘩	xiao1
+𰘩	xiu1
+𰘪
+𰘫
+𰘬
+𰘭	rui3
+𰘮
+𰘯	luo4
+𰘰	bi4
+𰘱	bi4
+𰘲	yang2
+𰘳	la4
+𰘳	lai4
+𰘴	liao2
+𰘵	yan2
+𰘶	su1
+𰘷
+𰘸	sou3
+𰘹	zi1
+𰘺
+𰘻
+𰘼
+𰘽	yan1
+𰘾	lei3
+𰘿
+𰙀
+𰙁
+𰙂
+𰙃
+𰙄	wu2
+𰙅	lin2
+𰙆	cai4
+𰙇	su4
+𰙈	wu2
+𰙉	ji2
+𰙊	zu2
+𰙋	wu1
+𰙋	yang1
+𰙌	yi4
+𰙌	yin1
+𰙍	tai2
+𰙎	han1
+𰙎	lian3
+𰙏
+𰙐	you3
+𰙑	xiao4
+𰙒	kuan3
+𰙓	qin1
+𰙔	ge1
+𰙕	lou4
+𰙖	wu4
+𰙗
+𰙘	yin3
+𰙙	wu4
+𰙚
+𰙛	bai3
+𰙜	se4
+𰙝	kuang2
+𰙝	wang3
+𰙞	guang3
+𰙟	ji2
+𰙠
+𰙡
+𰙢
+𰙣
+𰙤
+𰙥	xiang2
+𰙦	yue4
+𰙧
+𰙨	jian4
+𰙩	se4
+𰙩	sha4
+𰙪	jie2
+𰙫	nie4
+𰙫	xing4
+𰙬	lai2
+𰙬	li2
+𰙭
+𰙮	bi4
+𰙯	yue4
+𰙰
+𰙱	tai2
+𰙲	qi2
+𰙳
+𰙳	jiang4
+𰙴	zi4
+𰙵	qiao2
+𰙶
+𰙷	shi4
+𰙸
+𰙹
+𰙺	lv3
+𰙻
+𰙼
+𰙽	shi5
+𰙽	zhi2
+𰙾
+𰙿
+𰚀
+𰚁
+𰚂	lai4
+𰚃	gu3
+𰚄	sha1
+𰚅	gu3
+𰚆	shu4
+𰚇	di2
+𰚈	hu2
+𰚉	ke2
+𰚉	qiao4
+𰚊	zao2
+𰚋
+𰚌
+𰚍
+𰚎
+𰚏	pi1
+𰚐
+𰚑	fen1
+𰚒
+𰚓	xiu4
+𰚔	ning2
+𰚕	tiao2
+𰚖
+𰚗
+𰚘	bo2
+𰚙	li2
+𰚙	tai2
+𰚚
+𰚛	lei4
+𰚜	fu2
+𰚝	ju1
+𰚞
+𰚟	de2
+𰚠
+𰚡	su1
+𰚡	zu2
+𰚢	pei2
+𰚣
+𰚤	su4
+𰚥	mao2
+𰚦	dou1
+𰚦	lv2
+𰚦	shu1
+𰚦	yu2
+𰚧	mao2
+𰚨	mao2
+𰚩	ru4
+𰚪	ran2
+𰚫
+𰚬
+𰚭	jie2
+𰚮	rong2
+𰚯
+𰚰	mao2
+𰚱	ji1
+𰚱	ye4
+𰚲
+𰚳	cui4
+𰚴	ning2
+𰚵	xian1
+𰚶	nie4
+𰚷
+𰚸	min3
+𰚸	wen3
+𰚹	yang1
+𰚺	nuo2
+𰚻
+𰚼	yun1
+𰚽
+𰚾	qi4
+𰚿	yin1
+𰛀
+𰛁	yin1
+𰛂	mian3
+𰛃	yun1
+𰛄	pai4
+𰛅	lai4
+𰛆
+𰛇
+𰛈
+𰛉	men2
+𰛊	ma3
+𰛋
+𰛌	she4
+𰛍	fa1
+𰛎	fu1
+𰛏	cong2
+𰛏	song3
+𰛐
+𰛑	yan3
+𰛑	zhu4
+𰛒	dong1
+𰛓	qing1
+𰛔
+𰛕
+𰛖
+𰛗
+𰛘
+𰛙
+𰛚	ce4
+𰛛	shan3
+𰛜	zhi4
+𰛝
+𰛞
+𰛟
+𰛠	yi1
+𰛡	bi4
+𰛢	guai4
+𰛣	zhi2
+𰛤	zhi4
+𰛥	ai2
+𰛦	hui4
+𰛦	huo4
+𰛦	wei4
+𰛧
+𰛨
+𰛩	shan3
+𰛩	shen3
+𰛩	tan4
+𰛪	luan2
+𰛪	luan4
+𰛫	zhe4
+𰛬	dian1
+𰛭	bi4
+𰛮	lv3
+𰛯
+𰛰
+𰛱	qian1
+𰛲	lian4
+𰛳	zi1
+𰛴	zao4
+𰛵	xian2
+𰛶	you2
+𰛷
+𰛸	dian4
+𰛹
+𰛺
+𰛻	ling2
+𰛼	tong3
+𰛽	ding3
+𰛾
+𰛿	shi4
+𰜀
+𰜀	se4
+𰜁
+𰜂
+𰜃
+𰜄	shen4
+𰜅
+𰜆
+𰜇
+𰜈	liu1
+𰜈	liu2
+𰜈	liu4
+𰜉	lao3
+𰜉	lao4
+𰜉	liao2
+𰜊
+𰜋
+𰜌
+𰜍	shu4
+𰜍	zhu4
+𰜎	bo2
+𰜏
+𰜐	lan3
+𰜑
+𰜒	chong1
+𰜓
+𰜔	zi1
+𰜕	wen1
+𰜖	wen1
+𰜗
+𰜘	zu3
+𰜙	bo2
+𰜚	zhun3
+𰜛
+𰜜	qin4
+𰜝	yang3
+𰜝	yang4
+𰜞	shen1
+𰜟	yi1
+𰜠
+𰜡
+𰜢	he4
+𰜣	ti2
+𰜤	cang1
+𰜥	se4
+𰜦	zhan4
+𰜧
+𰜨	jian4
+𰜨	zun4
+𰜩
+𰜪	zi1
+𰜫
+𰜬
+𰜭
+𰜮
+𰜯
+𰜰	jin1
+𰜱
+𰜲
+𰜳	ying2
+𰜳	ying3
+𰜳	ying4
+𰜴
+𰜵
+𰜶
+𰜷
+𰜸
+𰜹
+𰜺
+𰜻
+𰜼
+𰜽
+𰜾
+𰜿
+𰝀
+𰝁
+𰝂
+𰝃
+𰝄
+𰝅	ying2
+𰝆
+𰝇
+𰝈
+𰝉
+𰝊
+𰝋	yin1
+𰝌
+𰝍	hui1
+𰝎
+𰝏
+𰝐
+𰝑
+𰝒
+𰝓
+𰝔
+𰝕
+𰝖
+𰝗
+𰝘
+𰝙
+𰝚
+𰝛
+𰝜
+𰝝
+𰝞
+𰝟	xian3
+𰝠
+𰝡
+𰝢	qian1
+𰝣
+𰝤	xian3
+𰝥
+𰝦
+𰝧
+𰝨
+𰝩
+𰝪
+𰝫
+𰝬
+𰝭
+𰝮
+𰝯
+𰝰
+𰝱
+𰝲
+𰝳
+𰝴
+𰝵
+𰝶	liao2
+𰝶	liao3
+𰝷
+𰝸
+𰝹
+𰝺
+𰝻
+𰝼
+𰝽
+𰝾	chui3
+𰝿
+𰞀
+𰞁
+𰞂
+𰞃
+𰞄
+𰞅
+𰞆
+𰞇	yi4
+𰞈
+𰞉
+𰞊
+𰞋
+𰞌
+𰞍	ji2
+𰞍	jie2
+𰞎
+𰞏
+𰞐
+𰞑
+𰞒
+𰞓
+𰞔
+𰞕
+𰞖
+𰞗
+𰞘
+𰞙
+𰞚
+𰞛
+𰞜
+𰞝
+𰞞
+𰞟
+𰞠
+𰞡
+𰞢
+𰞣
+𰞤	jian1
+𰞥
+𰞦
+𰞧
+𰞨
+𰞩
+𰞪
+𰞫
+𰞬
+𰞭
+𰞮
+𰞯
+𰞰
+𰞱
+𰞲
+𰞳
+𰞴
+𰞵
+𰞶
+𰞷	zao4
+𰞸
+𰞹
+𰞺
+𰞻	ben4
+𰞻	fen2
+𰞼
+𰞽
+𰞾
+𰞿
+𰟀
+𰟁
+𰟂
+𰟃
+𰟄
+𰟅
+𰟆
+𰟇
+𰟈
+𰟉
+𰟊
+𰟋
+𰟌
+𰟍
+𰟎
+𰟏
+𰟐
+𰟑
+𰟒
+𰟓
+𰟔
+𰟕
+𰟖
+𰟗
+𰟘	yan4
+𰟙
+𰟚
+𰟛
+𰟜
+𰟝
+𰟞
+𰟟
+𰟠
+𰟡
+𰟢
+𰟣
+𰟤
+𰟥
+𰟦
+𰟧
+𰟨
+𰟩
+𰟪
+𰟫
+𰟬
+𰟭
+𰟮
+𰟯
+𰟰
+𰟱
+𰟲
+𰟳
+𰟴
+𰟵
+𰟶
+𰟷
+𰟸
+𰟹
+𰟺
+𰟻
+𰟼
+𰟽
+𰟾
+𰟿
+𰠀
+𰠁
+𰠂
+𰠃
+𰠄
+𰠅
+𰠆
+𰠇
+𰠈
+𰠉
+𰠊
+𰠋
+𰠌
+𰠍
+𰠎
+𰠏
+𰠐
+𰠑
+𰠒
+𰠓
+𰠔
+𰠕
+𰠖
+𰠗
+𰠘
+𰠙
+𰠚
+𰠛	jian1
+𰠜
+𰠝
+𰠞
+𰠟
+𰠠
+𰠡
+𰠢
+𰠣
+𰠤
+𰠥
+𰠦
+𰠧
+𰠨	xi1
+𰠩
+𰠪
+𰠫	gang1
+𰠬
+𰠭
+𰠮
+𰠯
+𰠰
+𰠱	ju4
+𰠲	keng1
+𰠳
+𰠴	yao3
+𰠵
+𰠶
+𰠷
+𰠸
+𰠹	pai2
+𰠺
+𰠻
+𰠼
+𰠽
+𰠾
+𰠿
+𰡀
+𰡁
+𰡂	cai1
+𰡃
+𰡄	lu2
+𰡅
+𰡆
+𰡇
+𰡈
+𰡉
+𰡊	xiao1
+𰡋	hui1
+𰡋	xun1
+𰡌
+𰡍
+𰡎	lai2
+𰡏	wo1
+𰡐
+𰡑
+𰡒
+𰡓
+𰡔	chan2
+𰡕
+𰡖
+𰡗
+𰡘
+𰡙
+𰡚
+𰡛
+𰡜
+𰡝
+𰡞	ben4
+𰡞	fen2
+𰡞	fen4
+𰡟
+𰡠
+𰡡
+𰡢	ying1
+𰡣
+𰡤
+𰡥
+𰡦
+𰡧
+𰡨
+𰡩	qi2
+𰡪
+𰡫
+𰡬
+𰡭
+𰡮
+𰡯
+𰡰	che1
+𰡱
+𰡲
+𰡳
+𰡴
+𰡵	lu2
+𰡶
+𰡷
+𰡸
+𰡹	mao4
+𰡺
+𰡻	nao3
+𰡼
+𰡽	shu2
+𰡾
+𰡿
+𰢀
+𰢁
+𰢂
+𰢃
+𰢄	su4
+𰢅
+𰢆
+𰢇
+𰢈
+𰢉
+𰢊	yao2
+𰢋
+𰢌
+𰢍
+𰢎	li2
+𰢏
+𰢐
+𰢑	lu3
+𰢒
+𰢓
+𰢔
+𰢕
+𰢖
+𰢗
+𰢘
+𰢙
+𰢚
+𰢛
+𰢜
+𰢝
+𰢞
+𰢟
+𰢠
+𰢡
+𰢢	wu3
+𰢣
+𰢤	ying1
+𰢥
+𰢦	lou3
+𰢧
+𰢨
+𰢩
+𰢪	qi1
+𰢫
+𰢬
+𰢭
+𰢮
+𰢯	jian3
+𰢰	beng2
+𰢱	peng2
+𰢲
+𰢳
+𰢴	liu2
+𰢵	hua4
+𰢶
+𰢷
+𰢸	quan3
+𰢹
+𰢺
+𰢻
+𰢼
+𰢽
+𰢾
+𰢿
+𰣀
+𰣁
+𰣂
+𰣃
+𰣄
+𰣅
+𰣆
+𰣇
+𰣈
+𰣉
+𰣊
+𰣋
+𰣌
+𰣍
+𰣎
+𰣏
+𰣐
+𰣑
+𰣒
+𰣓
+𰣔
+𰣕
+𰣖
+𰣗
+𰣘
+𰣙
+𰣚
+𰣛
+𰣜
+𰣝
+𰣞
+𰣟
+𰣠
+𰣡
+𰣢
+𰣣
+𰣤
+𰣥
+𰣦	wei3
+𰣧
+𰣨
+𰣩
+𰣪
+𰣫
+𰣬	ji4
+𰣭
+𰣮
+𰣯
+𰣰
+𰣱
+𰣲	liu2
+𰣳
+𰣴
+𰣵
+𰣶	tui3
+𰣷
+𰣸
+𰣹
+𰣺
+𰣻
+𰣼
+𰣽	luan2
+𰣾
+𰣿
+𰤀
+𰤁
+𰤂
+𰤃
+𰤄
+𰤅
+𰤆
+𰤇
+𰤈
+𰤉
+𰤊
+𰤋
+𰤌
+𰤍
+𰤎
+𰤏
+𰤐
+𰤑
+𰤒
+𰤓	tang3
+𰤔
+𰤕	bo1
+𰤕	li4
+𰤕	luo4
+𰤖
+𰤗
+𰤘
+𰤙
+𰤚
+𰤛
+𰤜
+𰤝
+𰤞
+𰤟
+𰤠
+𰤡
+𰤢
+𰤣
+𰤤
+𰤥
+𰤦
+𰤧
+𰤨	ta4
+𰤩
+𰤪
+𰤫	du2
+𰤬	du2
+𰤭
+𰤮
+𰤯
+𰤰
+𰤱
+𰤲
+𰤳
+𰤴
+𰤵
+𰤶
+𰤷
+𰤸
+𰤹
+𰤺
+𰤻
+𰤼
+𰤽
+𰤾
+𰤿
+𰥀
+𰥁
+𰥂
+𰥃
+𰥄
+𰥅
+𰥆
+𰥇
+𰥈
+𰥉
+𰥊	kan4
+𰥋
+𰥌	xia1
+𰥍
+𰥎
+𰥏
+𰥐
+𰥑
+𰥒	cong1
+𰥓
+𰥔
+𰥕	jing1
+𰥖
+𰥗
+𰥘
+𰥙
+𰥚
+𰥛
+𰥜
+𰥝
+𰥞	ying2
+𰥞	ying3
+𰥟
+𰥠	man2
+𰥠	man3
+𰥡
+𰥢	li2
+𰥢	xi3
+𰥣	keng1
+𰥤
+𰥥
+𰥦
+𰥧
+𰥨	jian4
+𰥨	xian2
+𰥩	zhu3
+𰥪	gui3
+𰥫
+𰥬
+𰥭	meng3
+𰥮
+𰥯
+𰥰
+𰥱
+𰥲
+𰥳
+𰥴
+𰥵
+𰥶
+𰥷
+𰥸
+𰥹	tang3
+𰥺
+𰥻
+𰥼
+𰥽
+𰥾
+𰥿
+𰦀
+𰦁
+𰦂
+𰦃
+𰦄
+𰦅
+𰦆
+𰦇
+𰦈
+𰦉
+𰦊
+𰦋
+𰦌	zhen1
+𰦍
+𰦎	mao2
+𰦏	mao2
+𰦐	wu4
+𰦑
+𰦒	shi3
+𰦓	duan3
+𰦔	gui1
+𰦕
+𰦖
+𰦗	tiao4
+𰦙	zhi4
+𰦚	zu2
+𰦛
+𰦜	ba4
+𰦝	jiao2
+𰦝	jiao3
+𰦞
+𰦟	cuo2
+𰦠	ying3
+𰦡
+𰦢	zeng1
+𰦣	jin4
+𰦤	bian1
+𰦥	po4
+𰦦	li4
+𰦧	di3
+𰦨	hui3
+𰦩	hu4
+𰦪	nian3
+𰦫	lei3
+𰦬	yao2
+𰦭	long2
+𰦮	pao1
+𰦯	ka1
+𰦰	ze2
+𰦱	min2
+𰦲
+𰦳
+𰦴	ya1
+𰦵
+𰦶
+𰦷	lao2
+𰦷	luo4
+𰦸	bei1
+𰦹	jiu4
+𰦺
+𰦻	po4
+𰦼
+𰦽	leng2
+𰦾	yan2
+𰦾	yan3
+𰦿
+𰧀	bei1
+𰧁
+𰧂
+𰧃	jian4
+𰧄
+𰧅
+𰧆	ben1
+𰧇	xian2
+𰧇	xin2
+𰧈
+𰧉	zhi4
+𰧊
+𰧋	qing4
+𰧌	jia3
+𰧍
+𰧎	qin1
+𰧏
+𰧐	ji2
+𰧑	ao2
+𰧑	qiao1
+𰧒	ta1
+𰧓
+𰧔	jian1
+𰧕
+𰧖	sha4
+𰧗
+𰧘	zhu1
+𰧙
+𰧚	quan4
+𰧛
+𰧜	ao2
+𰧜	qiao1
+𰧝
+𰧞	zeng1
+𰧟
+𰧠
+𰧡	liu2
+𰧡	liu4
+𰧢	jin1
+𰧢	qin2
+𰧣	si1
+𰧤
+𰧥
+𰧦	que4
+𰧦	xi1
+𰧧	lian2
+𰧧	qian1
+𰧨	sang3
+𰧩	xia4
+𰧪	ca3
+𰧫	chan2
+𰧬
+𰧭
+𰧮	qi3
+𰧯	si1
+𰧰	shang1
+𰧰	yang2
+𰧱
+𰧲	huo4
+𰧳	xiang4
+𰧴	jiu4
+𰧵	xiang2
+𰧶
+𰧷	ji4
+𰧸	zai1
+𰧹	ru2
+𰧺
+𰧻	gui4
+𰧼	you4
+𰧽	huo4
+𰧾	nong2
+𰧿	bing3
+𰨀
+𰨁	tiao1
+𰨂	er2
+𰨃	she4
+𰨄	ji4
+𰨅
+𰨆
+𰨇
+𰨈
+𰨉	guan1
+𰨊	you2
+𰨋	chen4
+𰨋	cheng1
+𰨌	qi3
+𰨍
+𰨎	fu2
+𰨏	liu4
+𰨐
+𰨑	liu4
+𰨒
+𰨓
+𰨔	ying3
+𰨕
+𰨖	ti2
+𰨗	xi3
+𰨘
+𰨙	yue4
+𰨚	hai4
+𰨛	dao4
+𰨜	kuang4
+𰨝	nian2
+𰨞	su1
+𰨞	zu2
+𰨞	zui4
+𰨟	chen4
+𰨟	cheng1
+𰨟	cheng4
+𰨠
+𰨡
+𰨢	yi2
+𰨣
+𰨤	ci2
+𰨥
+𰨦	ji4
+𰨦	zi4
+𰨧	huang1
+𰨨	yi2
+𰨩	xiu4
+𰨪	chao2
+𰨪	tao2
+𰨫
+𰨬	dao4
+𰨭	ji4
+𰨮	ji1
+𰨮	qi3
+𰨯
+𰨰	qu3
+𰨱	jiao1
+𰨲	mu4
+𰨳	zi1
+𰨴	gu3
+𰨵
+𰨶	nian2
+𰨷
+𰨸	cen2
+𰨸	qian2
+𰨹	juan1
+𰨺
+𰨻
+𰨼
+𰨽
+𰨾	shi4
+𰨿	jian1
+𰨿	lian4
+𰨿	xian2
+𰩀	xian4
+𰩁
+𰩂
+𰩃
+𰩄
+𰩅	long3
+𰩆	yao3
+𰩇	jiao4
+𰩇	liao2
+𰩇	liu4
+𰩈
+𰩉	yao3
+𰩊	ji4
+𰩋	tiao3
+𰩋	yao2
+𰩌
+𰩍	chuang1
+𰩎
+𰩏	tiao3
+𰩐	liao2
+𰩑	kuan1
+𰩒	ji4
+𰩓	cheng1
+𰩓	cheng4
+𰩔	wa1
+𰩕
+𰩖	yan4
+𰩗	tuo4
+𰩘
+𰩙	mo4
+𰩚
+𰩛	xie3
+𰩜	liao2
+𰩝	qiao3
+𰩞	jiu1
+𰩟
+𰩠	chi1
+𰩡	yan4
+𰩢	jing4
+𰩣
+𰩤
+𰩥	ye4
+𰩦	jie2
+𰩧	xu1
+𰩨	tong2
+𰩩	gu3
+𰩪
+𰩫	jing4
+𰩬	ta4
+𰩬	ti4
+𰩬	xiao4
+𰩭
+𰩮	tuan2
+𰩮	zhuan1
+𰩯	suan4
+𰩰
+𰩱	ran3
+𰩲	lu2
+𰩳	dian4
+𰩴
+𰩵
+𰩶	xiao4
+𰩷	pi2
+𰩸	jiao1
+𰩹	dang4
+𰩹	tang1
+𰩺	chuo4
+𰩺	yao4
+𰩺	yue1
+𰩻	zhua1
+𰩼	jing3
+𰩽
+𰩾	xiao4
+𰩿
+𰪀
+𰪁
+𰪂
+𰪃
+𰪄
+𰪅
+𰪆
+𰪇
+𰪈
+𰪉
+𰪊	zhong1
+𰪋
+𰪌
+𰪍
+𰪎
+𰪏	lu4
+𰪐
+𰪑	gui3
+𰪒
+𰪓
+𰪔
+𰪕
+𰪖	jue2
+𰪗
+𰪘
+𰪙
+𰪚
+𰪛	ting2
+𰪜	teng2
+𰪝
+𰪞
+𰪟
+𰪠	ju3
+𰪡	zhou4
+𰪢
+𰪣	ying2
+𰪤
+𰪥
+𰪦
+𰪧	ke1
+𰪨	bo1
+𰪩	kuang4
+𰪩	tang2
+𰪪	ma3
+𰪫	jing1
+𰪫	tuan2
+𰪬
+𰪭	zhang1
+𰪮	liao4
+𰪯
+𰪰
+𰪱	jing1
+𰪲
+𰪳
+𰪴
+𰪵
+𰪶	tuan2
+𰪷
+𰪸
+𰪹
+𰪺
+𰪻	sa4
+𰪼	chan3
+𰪽
+𰪾
+𰪿	lao2
+𰫀
+𰫁	zhuang1
+𰫂
+𰫃	hui1
+𰫄	hui3
+𰫅
+𰫆	ma3
+𰫇	da2
+𰫈
+𰫉
+𰫊
+𰫋	men2
+𰫌
+𰫍
+𰫎
+𰫏	chan3
+𰫐
+𰫑
+𰫒
+𰫓
+𰫔
+𰫕
+𰫖	lan4
+𰫗
+𰫘
+𰫙	sun1
+𰫚
+𰫛	gou1
+𰫛	yue4
+𰫜
+𰫝
+𰫞	chong2
+𰫟
+𰫠
+𰫡
+𰫢	shai3
+𰫣	ji4
+𰫤
+𰫥
+𰫦
+𰫧	song4
+𰫨	ci2
+𰫨	yi2
+𰫨	zhi4
+𰫩
+𰫪
+𰫫
+𰫬
+𰫭	juan4
+𰫭	teng2
+𰫮
+𰫯
+𰫰
+𰫱
+𰫲
+𰫳	chao1
+𰫴
+𰫵	shi4
+𰫶	huan2
+𰫶	yuan2
+𰫷
+𰫸	xian4
+𰫹	luan2
+𰫺
+𰫻	feng1
+𰫼	zheng1
+𰫼	zheng3
+𰫽	fou2
+𰫾	yuan2
+𰫿	zhong4
+𰬀	ji4
+𰬀	jie2
+𰬀	jie4
+𰬁	lu2
+𰬂	e1
+𰬃	lie4
+𰬄	mian3
+𰬅	fu1
+𰬅	fu4
+𰬆	qu2
+𰬇	zhu4
+𰬈	xian2
+𰬉	tuo2
+𰬊	lan3
+𰬋	hong2
+𰬌	geng1
+𰬍	xie2
+𰬎	bi4
+𰬏	zhu1
+𰬐	qiao1
+𰬑	zheng1
+𰬒	ci4
+𰬓	gai1
+𰬓	hai4
+𰬔	beng1
+𰬔	bing1
+𰬔	peng1
+𰬕	ying1
+𰬖	cheng2
+𰬗	qiu2
+𰬘	fu2
+𰬙	chen1
+𰬙	chen2
+𰬙	zhen3
+𰬚	yun2
+𰬛	zhen4
+𰬜	man2
+𰬜	mian3
+𰬜	wan4
+𰬜	wen4
+𰬝	jian4
+𰬞	qin1
+𰬞	xian1
+𰬟	yu4
+𰬠	hua4
+𰬡	ji1
+𰬢	qi1
+𰬣	xi1
+𰬤	bi4
+𰬥	zong3
+𰬦	hu1
+𰬧	chan1
+𰬧	tan3
+𰬧	tian2
+𰬨	meng4
+𰬩	xiu4
+𰬪	shan1
+𰬫	zhi4
+𰬬	mao2
+𰬬	miao2
+𰬭	beng3
+𰬮	qian4
+𰬯	zong1
+𰬯	zong4
+𰬰	zong3
+𰬱	suo3
+𰬲	quan2
+𰬳	ni4
+𰬴	zai4
+𰬴	zeng1
+𰬵	xuan4
+𰬶	qie4
+𰬶	xi2
+𰬷	san3
+𰬸	sui4
+𰬹	zuan3
+𰬹	zui1
+𰬹	zui2
+𰬺	zun1
+𰬺	zun3
+𰬻	ju2
+𰬻	jue2
+𰬼	la4
+𰬽	xie4
+𰬾	lian2
+𰬿	fu2
+𰬿	pu2
+𰭀	you1
+𰭁	cong1
+𰭂
+𰭃	guan4
+𰭄	guan4
+𰭅
+𰭆	guan4
+𰭇	lei2
+𰭈
+𰭉
+𰭊
+𰭋	zhi4
+𰭌	gao1
+𰭍	mian3
+𰭎	qin1
+𰭏	yu4
+𰭐	ming2
+𰭑
+𰭒	meng1
+𰭒	meng2
+𰭓	wang3
+𰭔	juan4
+𰭕	ju1
+𰭖	luan2
+𰭗	ji1
+𰭘
+𰭙
+𰭚	lou3
+𰭛
+𰭜
+𰭝	yi4
+𰭞	qi2
+𰭟
+𰭠	zhi3
+𰭡
+𰭢	sha4
+𰭣	dao4
+𰭤
+𰭥
+𰭦
+𰭧	guang3
+𰭨	xiao4
+𰭩
+𰭪
+𰭫
+𰭬
+𰭭
+𰭮	zu3
+𰭯	er3
+𰭰	ke1
+𰭱
+𰭲	yi4
+𰭳	yao3
+𰭴
+𰭵
+𰭶
+𰭷	cong1
+𰭸	xu4
+𰭹	long2
+𰭺
+𰭻
+𰭼	jian4
+𰭽	shu1
+𰭾
+𰭿	you3
+𰮀	qi4
+𰮁
+𰮂	le1
+𰮂	le1	cong1
+𰮂	lei4
+𰮃
+𰮄
+𰮅	xiang1
+𰮆	fei2
+𰮇	hu1
+𰮇	wu3
+𰮈	fei4
+𰮉	pei1
+𰮊
+𰮋	bi4
+𰮋	fei4
+𰮌	xiong1
+𰮍	xiong1
+𰮎	xiong1
+𰮏	gu3
+𰮐	dan4
+𰮐	tan3
+𰮑
+𰮒	mei4
+𰮓	ni4
+𰮔	bei4
+𰮕
+𰮖
+𰮗	yuan4
+𰮘	qu1
+𰮙	chu4
+𰮙	zhou4
+𰮙	zhu4
+𰮚	ga2
+𰮛	sheng1
+𰮜	tai1
+𰮝	xiao1
+𰮞
+𰮟
+𰮠	xi1
+𰮡
+𰮢	xiong1
+𰮣	cui4
+𰮤	juan4
+𰮤	zhen4
+𰮥	tiao3
+𰮦	can2
+𰮦	zhan4
+𰮧	wu4
+𰮨	xiong1
+𰮩	ran2
+𰮪
+𰮫
+𰮬
+𰮭	mian3
+𰮭	yun4
+𰮮
+𰮯
+𰮰
+𰮱	wen3
+𰮲	sou1
+𰮲	xiao4
+𰮳
+𰮴
+𰮵
+𰮶
+𰮷
+𰮸
+𰮹
+𰮺	ji2
+𰮻	yu3
+𰮼	pi2
+𰮽
+𰮾	shou4
+𰮿
+𰯀	han2
+𰯀	han4
+𰯁
+𰯂	xian4
+𰯃
+𰯄
+𰯅	chun3
+𰯅	qu2
+𰯅	xu4
+𰯆
+𰯇
+𰯈
+𰯉	qi2
+𰯊	rou2
+𰯋	luan2
+𰯋	ni2
+𰯌	xi1
+𰯍	bao2
+𰯍	pao4
+𰯎	man2
+𰯏	zhe2
+𰯐	ceng2
+𰯑
+𰯒	tu2
+𰯓	tun2
+𰯔
+𰯕
+𰯖	jue2
+𰯗
+𰯘	xi1
+𰯙
+𰯚	biao1
+𰯛
+𰯜
+𰯝	nao3
+𰯞	duo2
+𰯟	sui3
+𰯠	juan3
+𰯡	bo2
+𰯢
+𰯣	bin4
+𰯤	xun2
+𰯥
+𰯦	kuan1
+𰯧	lian2
+𰯨	huai2
+𰯩	yong1
+𰯪	yao4
+𰯫
+𰯬	guo3
+𰯭	wan3
+𰯮
+𰯯
+𰯰	xian2
+𰯱
+𰯲	lan3
+𰯳	gui1
+𰯴
+𰯵
+𰯶	han1
+𰯷
+𰯸
+𰯹	chao2
+𰯺
+𰯻	cha1
+𰯼	cuo4
+𰯽
+𰯾
+𰯿
+𰰀	tan1
+𰰁
+𰰂	zhua3
+𰰃
+𰰄
+𰰅
+𰰆	tan1
+𰰇
+𰰈	ci2
+𰰉	ta4
+𰰊	shun4
+𰰋	shuang1
+𰰌	zhou1
+𰰍	zhen4
+𰰎	chao2
+𰰎	zhao1
+𰰏	dai4
+𰰐	bu4
+𰰑	lou2
+𰰒
+𰰓	jin1
+𰰔	lang3
+𰰕	zhi1
+𰰖
+𰰗
+𰰘
+𰰙
+𰰚
+𰰛
+𰰜
+𰰝	ai4
+𰰞	ai4
+𰰟	nie4
+𰰠	xu1
+𰰠	xu4
+𰰠	yu4
+𰰡	meng2
+𰰢	dang4
+𰰢	tang1
+𰰣	di4
+𰰤	fu1
+𰰤	ou3
+𰰤	qiu1
+𰰤	xu1
+𰰥	gong4
+𰰦	bu4
+𰰧	gua1
+𰰨	lun2
+𰰩	dou4
+𰰪
+𰰫	jing1
+𰰬	guang1
+𰰬	mie4
+𰰭
+𰰮	gui1
+𰰯
+𰰰
+𰰱	dui4
+𰰲
+𰰳	shi1
+𰰴	ai2
+𰰴	qi3
+𰰵	sha1
+𰰵	xie4
+𰰶	za2
+𰰷	fu4
+𰰸
+𰰹	liu2
+𰰹	liu3
+𰰺	she4
+𰰻
+𰰼
+𰰽	ci4
+𰰾	ke1
+𰰿	ju2
+𰱀	gong4
+𰱁
+𰱂
+𰱃	yi1
+𰱄
+𰱅
+𰱆
+𰱇	jian1
+𰱈	ying2
+𰱉	meng2
+𰱊	ying1
+𰱊	ying4
+𰱋	fa1
+𰱌	na4
+𰱍	fen2
+𰱎	fa1
+𰱏
+𰱐	xu4
+𰱑	jian1
+𰱒	ye4
+𰱓
+𰱔
+𰱕
+𰱖
+𰱗	chu1
+𰱘
+𰱙
+𰱚
+𰱛	zhong1
+𰱜	fa1
+𰱝	xiang4
+𰱞
+𰱟	fen2
+𰱠	di1
+𰱡
+𰱢	zi1
+𰱢	zi4
+𰱣
+𰱤	zi3
+𰱥
+𰱦	fu4
+𰱧
+𰱨
+𰱩	lv2
+𰱪	shuai1
+𰱪	suo1
+𰱫
+𰱬
+𰱭
+𰱮	lv2
+𰱯	bei1
+𰱰
+𰱱	ci2
+𰱱	zi1
+𰱲	zhi1
+𰱳
+𰱴	mo2
+𰱵	xu5
+𰱶
+𰱷
+𰱸	chu4
+𰱹
+𰱺
+𰱻	lang2
+𰱼
+𰱽
+𰱾	lai4
+𰱿
+𰲀	zi3
+𰲁	tui2
+𰲂	teng2
+𰲃	fen4
+𰲄	bu4
+𰲄	fu2
+𰲄	pou2
+𰲅	ji1
+𰲆	rong2
+𰲇
+𰲈	hao4
+𰲈	xiao1
+𰲉	gu3
+𰲊
+𰲋
+𰲌
+𰲍
+𰲎
+𰲏
+𰲐
+𰲑
+𰲒	lei4
+𰲓	nie4
+𰲔
+𰲕	teng2
+𰲖	xiao1
+𰲗	ji1
+𰲘
+𰲙	hu1
+𰲚	si1
+𰲛	hao2
+𰲛	hao4
+𰲜
+𰲝	si1
+𰲞
+𰲟	wu1
+𰲠	zhan4
+𰲡	cuo2
+𰲢	jie1
+𰲣	jie1
+𰲤	jia3
+𰲥
+𰲦
+𰲧	jie1
+𰲨	chen2
+𰲩
+𰲪
+𰲫	wu2
+𰲬	che1
+𰲭	xia4
+𰲮	qian3
+𰲯	zong1
+𰲰	lun2
+𰲱	fang1
+𰲲	gui3
+𰲳	zhan4
+𰲴	long2
+𰲵	ze2
+𰲶	jing1
+𰲷	ji4
+𰲸	e4
+𰲹	yi3
+𰲺	guo4
+𰲻	da2
+𰲼
+𰲽	meng3
+𰲾
+𰲿
+𰳀	you1
+𰳁	ji1
+𰳂	chan2
+𰳂	jian4
+𰳃
+𰳄	chen2
+𰳅
+𰳆	nie4
+𰳇	tang2
+𰳈
+𰳉
+𰳊	ben1
+𰳊	fei4
+𰳋
+𰳌
+𰳍
+𰳎
+𰳏
+𰳐	meng2
+𰳑
+𰳒	gui4
+𰳒	hui3
+𰳓	zhu4
+𰳔
+𰳕
+𰳖	ke1
+𰳗	ying1
+𰳘
+𰳙	meng3
+𰳚	wei4
+𰳛
+𰳜
+𰳝	bie1
+𰳞
+𰳟
+𰳠
+𰳡
+𰳢
+𰳣
+𰳤
+𰳥
+𰳦
+𰳧	cheng2
+𰳧	sheng4
+𰳨
+𰳩
+𰳪
+𰳫
+𰳬
+𰳭	lv4
+𰳭	shuai4
+𰳮
+𰳯
+𰳰	li3
+𰳱
+𰳲	long2
+𰳳
+𰳴
+𰳵	yi4
+𰳶
+𰳷	jia1
+𰳸	dui4
+𰳹	yan3
+𰳺	nong2
+𰳻	da4
+𰳼	shi1
+𰳽
+𰳾
+𰳿
+𰴀
+𰴁	yao1
+𰴂	sen1
+𰴃	fu2
+𰴄
+𰴅
+𰴆	xian1
+𰴇
+𰴈
+𰴉	xian4
+𰴊	an1
+𰴊	qian1
+𰴊	yan3
+𰴋	zhen1
+𰴌
+𰴍
+𰴎
+𰴏	hou3
+𰴐
+𰴑
+𰴒	luo2
+𰴓
+𰴔	guan1
+𰴔	guan4
+𰴕	mie4
+𰴕	pie1
+𰴖	jiao1
+𰴖	shao4
+𰴗	li4
+𰴘	jian4
+𰴙	jun1
+𰴚	lou2
+𰴚	lou5
+𰴚	lv2
+𰴛	dou4
+𰴜	qu1
+𰴜	qu4
+𰴝	luan3
+𰴝	luo2
+𰴞	qu1
+𰴞	qu4
+𰴟	jiao3
+𰴟	jue2
+𰴠	chai1
+𰴡	jue2
+𰴢	li4
+𰴢	lu4
+𰴣	hu4
+𰴣	xue2
+𰴤	dai4
+𰴥	jian4
+𰴥	yue4
+𰴦	jian4
+𰴦	yue4
+𰴧	ci2
+𰴨	tai2
+𰴩
+𰴪	mo4
+𰴫
+𰴬	yan4
+𰴭
+𰴮
+𰴯	ying2
+𰴰	xuan1
+𰴱	gao4
+𰴲	ni4
+𰴳	ji4
+𰴴
+𰴵
+𰴶
+𰴷	hou4
+𰴸
+𰴹
+𰴺
+𰴻
+𰴼
+𰴽	juan4
+𰴾
+𰴿	yan2
+𰵀
+𰵁	ken3
+𰵂	lou2
+𰵃	jing4
+𰵄
+𰵅	xiao3
+𰵆
+𰵇
+𰵈
+𰵉
+𰵊	jiao4
+𰵋	qian1
+𰵋	xin4
+𰵌	yang2
+𰵍	zhun4
+𰵎	you2
+𰵏	chao1
+𰵐	ban4
+𰵐	fan3
+𰵐	fan4
+𰵑	e4
+𰵒	chen2
+𰵓	xu4
+𰵔	yi4
+𰵕	qing3
+𰵖	yi4
+𰵗	yang4
+𰵘	nan2
+𰵙	die2
+𰵚	ling2
+𰵛	gou4
+𰵜	pao2
+𰵜	tao2
+𰵝	he2
+𰵞	yong3
+𰵟	lan2
+𰵠	nao2
+𰵡	keng1
+𰵢	jia2
+𰵣	he2
+𰵤	luo4
+𰵥	chi3
+𰵥	chi4
+𰵥	yi2
+𰵦	xiao4
+𰵧	zhi4
+𰵨	zhan1
+𰵩	bu1
+𰵪	xiong4
+𰵫	dou4
+𰵬	bie2
+𰵭	chan2
+𰵮	e2
+𰵯	shua4
+𰵰	xing4
+𰵱	chen1
+𰵲	ji1
+𰵲	qi2
+𰵳	zhuo2
+𰵴	chu4
+𰵴	ji2
+𰵵	na2
+𰵵	ni4
+𰵶	zhui4
+𰵷	zhuo2
+𰵸	ta4
+𰵹	nie4
+𰵺	yuan2
+𰵻	hua2
+𰵻	yu2
+𰵼	huo4
+𰵽	tao1
+𰵾	xi3
+𰵿	he4
+𰶀	yu2
+𰶁	yi2
+𰶂	cong4
+𰶃	xi2
+𰶄	zha1
+𰶅	hao4
+𰶆	han4
+𰶇	tuo1
+𰶈	chi2
+𰶉	tan2
+𰶊	yi1
+𰶋	jian3
+𰶌	rou4
+𰶍	juan4
+𰶍	xuan1
+𰶎	se4
+𰶏	yao4
+𰶐	rong2
+𰶑	long2
+𰶒
+𰶓
+𰶔	du2
+𰶕	hou2
+𰶖	huo1
+𰶖	huo4
+𰶗
+𰶘	duan3
+𰶙
+𰶚	duan3
+𰶛
+𰶜	wan1
+𰶝	deng1
+𰶞	zai4
+𰶟	gu3
+𰶠
+𰶡	liao2
+𰶡	liu2
+𰶢
+𰶣
+𰶤
+𰶥
+𰶦
+𰶧
+𰶨	mi4
+𰶩	huan4
+𰶪
+𰶫	ling2
+𰶬	lou2
+𰶭	duo4
+𰶭	wei2
+𰶮	zong1
+𰶯
+𰶰	lin4
+𰶱	zhen1
+𰶲	wang2
+𰶳	xiao1
+𰶴
+𰶵	zhen1
+𰶶
+𰶷	qian4
+𰶸	de2
+𰶹	bai4
+𰶺	yi2
+𰶻
+𰶼
+𰶽
+𰶾
+𰶿	duo2
+𰶿	shi1
+𰷀
+𰷁
+𰷂
+𰷃	xiao1
+𰷄	tan1
+𰷅	yi2
+𰷆	yun1
+𰷇
+𰷈	chen1
+𰷉	xu4
+𰷊	cai2
+𰷋	gou4
+𰷌	kuai4
+𰷌	kui4
+𰷌	kui4
+𰷍	cang2
+𰷎	ji1
+𰷏	zhi4
+𰷐	zeng4
+𰷑
+𰷒
+𰷓
+𰷔
+𰷕
+𰷖	zhuan4
+𰷗	zhui4
+𰷘
+𰷙
+𰷚	pin2
+𰷛	lian2
+𰷛	zhuan4
+𰷜	shan4
+𰷝	gan4
+𰷝	gong4
+𰷝	zhuang4
+𰷞	dai4
+𰷟	ci4
+𰷠	yi2
+𰷠	yi4
+𰷡	wan2
+𰷢	chi2
+𰷣	zan4
+𰷤	sui4
+𰷥	cong2
+𰷦	fei4
+𰷧	jin4
+𰷨	kui4
+𰷩	sheng4
+𰷪	ai4
+𰷫	biao1
+𰷬	lian2
+𰷬	zhuan4
+𰷭	zang1
+𰷮	xuan4
+𰷯	dong4
+𰷰
+𰷱	yu3
+𰷲
+𰷳
+𰷴	li4
+𰷵	qiao1
+𰷶	qiao2
+𰷷	lai2
+𰷸	du2
+𰷹	lan2
+𰷺	dian1
+𰷻
+𰷼	qiao2
+𰷽	hai2
+𰷾	qu2
+𰷿
+𰸀	ling2
+𰸁	dao3
+𰸂
+𰸃
+𰸄	tang2
+𰸄	ti1
+𰸅	bo3
+𰸆
+𰸇	shuang1
+𰸈	die2
+𰸉	kua4
+𰸊	gui4
+𰸋
+𰸌
+𰸍
+𰸎	chan3
+𰸏	zi1
+𰸐	xi3
+𰸑
+𰸒	dao3
+𰸓	qun1
+𰸔	lian2
+𰸕
+𰸖
+𰸗	shan1
+𰸘
+𰸙
+𰸚	dai4
+𰸛	chi4
+𰸛	dai4
+𰸜	mou2
+𰸝	kua4
+𰸞	tui2
+𰸟
+𰸠
+𰸡
+𰸢
+𰸣
+𰸤	zhan4
+𰸥
+𰸦
+𰸧	zheng3
+𰸨	die
+𰸩
+𰸪
+𰸫
+𰸬
+𰸭
+𰸮
+𰸯
+𰸰
+𰸱
+𰸲
+𰸳
+𰸴
+𰸵
+𰸶
+𰸷	sa3
+𰸷	xie4
+𰸸
+𰸹
+𰸺	an3
+𰸻	qiong2
+𰸼
+𰸽
+𰸾
+𰸿
+𰹀	dan3
+𰹁	pen1
+𰹂
+𰹃
+𰹄	duan1
+𰹅
+𰹆
+𰹇
+𰹈	jia2
+𰹉
+𰹊
+𰹋	hong1
+𰹌
+𰹍
+𰹎	rong3
+𰹏	liu3
+𰹐	jia1
+𰹑	kan4
+𰹒	qu2
+𰹓	xian2
+𰹔	chao2
+𰹕	chi1
+𰹖
+𰹗	chai2
+𰹘	chi1
+𰹙	tao1
+𰹚	xi4
+𰹛	cheng2
+𰹛	cheng4
+𰹜	cong1
+𰹜	zong3
+𰹝	yi3
+𰹞	fan4
+𰹟	zi1
+𰹠	xie2
+𰹡
+𰹢	rou2
+𰹣	cong1
+𰹣	zong3
+𰹤	liu3
+𰹥	man4
+𰹦	liu3
+𰹧
+𰹨	chuan2
+𰹩
+𰹪	lian2
+𰹫
+𰹬
+𰹭	zhe2
+𰹮	lin2
+𰹯	jia2
+𰹰	shu1
+𰹱	fan4
+𰹱	gui3
+𰹲	wei4
+𰹳	chun1
+𰹳	xun2
+𰹴	fan4
+𰹴	gui3
+𰹵	yi3
+𰹶	kuang2
+𰹷	yuan2
+𰹷	yue4
+𰹸	tun2
+𰹹	zhe2
+𰹺	fan3
+𰹻	ba1
+𰹼	zhan4
+𰹽	peng1
+𰹾	jian4
+𰹿	rong3
+𰺀	di3
+𰺁	qu2
+𰺂	pao2
+𰺃	dui4
+𰺄	gong3
+𰺅	ju2
+𰺆	chun1
+𰺆	hong1
+𰺇	wan4
+𰺈	yin3
+𰺉	qian4
+𰺊	ling2
+𰺋	zhe2
+𰺌	du2
+𰺌	lu4
+𰺍	guo3
+𰺎	pai2
+𰺏	peng2
+𰺐	kan3
+𰺑	yuan1
+𰺑	yun3
+𰺒	chuan2
+𰺓	fu4
+𰺔	zong3
+𰺕	duo2
+𰺖	zhen1
+𰺗	jian4
+𰺘	keng1
+𰺙	se4
+𰺚	er2
+𰺛	lao3
+𰺜	fan1
+𰺝	chong1
+𰺞	zhan4
+𰺟	ji2
+𰺠	nie4
+𰺡	kai3
+𰺡	ke3
+𰺢	lei2
+𰺢	luo4
+𰺣	lin4
+𰺤	min3
+𰺥	zhi2
+𰺦	bao4
+𰺧
+𰺨	huo4
+𰺩
+𰺪
+𰺫	qian1
+𰺬	ci2
+𰺭	chen2
+𰺮
+𰺯	li4
+𰺯	zhi4
+𰺰	pi3
+𰺱
+𰺲	dang4
+𰺳	za1
+𰺴	yan2
+𰺵
+𰺶
+𰺷	rao2
+𰺸
+𰺹
+𰺺
+𰺻
+𰺼	zhu2
+𰺽
+𰺾	xue1
+𰺿	chuan2
+𰻀
+𰻁
+𰻂	gui1
+𰻃
+𰻄	su4
+𰻅
+𰻆	di4
+𰻇	fu4
+𰻈	dong4
+𰻉
+𰻊
+𰻋	duan4
+𰻌	jian4
+𰻍	ji2
+𰻎	lai2
+𰻎	lai4
+𰻏
+𰻐	bi4
+𰻑	qian1
+𰻒	lian2
+𰻓
+𰻔	shi1
+𰻕
+𰻖
+𰻗	da2
+𰻘
+𰻙
+𰻚
+𰻛
+𰻜	jiu4
+𰻝	biang2
+𰻞	biang2
+𰻟	yi4
+𰻠	si4
+𰻡	xu3
+𰻢	gai4
+𰻣	cun1
+𰻤
+𰻥	wei2
+𰻦	wei2
+𰻧
+𰻨	chen2
+𰻩	ruo4
+𰻪	xi1
+𰻫	huan2
+𰻬	wan2
+𰻭	ji4
+𰻮	qiao1
+𰻯	jing1
+𰻰	xiang4
+𰻱
+𰻲	kuang1
+𰻳	bi4
+𰻴	bi3
+𰻵	meng2
+𰻶	kuai4
+𰻷	yin1
+𰻸
+𰻹	zeng1
+𰻺
+𰻻	sou1
+𰻼	shan1
+𰻽	yong1
+𰻾	meng2
+𰻿	li2
+𰼀	can2
+𰼁	du1
+𰼂	ling2
+𰼃	niang4
+𰼄	zhen1
+𰼅	shi4
+𰼅	yi4
+𰼆
+𰼇	sou1
+𰼈
+𰼉	suan1
+𰼊
+𰼋	lao2
+𰼋	lao4
+𰼌
+𰼍	gou1
+𰼎	suan1
+𰼏	lan4
+𰼐	hai3
+𰼑	man2
+𰼑	mi2
+𰼒	pi3
+𰼓	jin3
+𰼔
+𰼕	jiao4
+𰼖
+𰼗
+𰼘
+𰼙	jun1
+𰼚	li2
+𰼚	xi1
+𰼚	xi3
+𰼛	li2
+𰼛	xi1
+𰼛	xi3
+𰼜
+𰼝	an4
+𰼞
+𰼟
+𰼠	fei1
+𰼡	pin2
+𰼢
+𰼣
+𰼤
+𰼥	lu2
+𰼦	po1
+𰼧
+𰼨
+𰼩	ti4
+𰼪
+𰼫
+𰼬
+𰼭	guo4
+𰼮
+𰼯	xuan4
+𰼰
+𰼱
+𰼲
+𰼳	jian4
+𰼴
+𰼵	chi4
+𰼵	li4
+𰼶
+𰼷
+𰼸
+𰼹	tu2
+𰼺	pi1
+𰼻	qing1
+𰼼
+𰼽
+𰼾
+𰼿
+𰽀
+𰽁
+𰽂	feng1
+𰽃
+𰽄
+𰽅
+𰽆	de2
+𰽇
+𰽈
+𰽉
+𰽊
+𰽋
+𰽌	chuo4
+𰽍
+𰽎
+𰽏
+𰽐
+𰽑
+𰽒
+𰽓
+𰽔
+𰽕	ji1
+𰽕	qi2
+𰽖	ba1
+𰽖	he2
+𰽗	hua2
+𰽗	yu2
+𰽘	dai4
+𰽘	di4
+𰽙	xiang1
+𰽚	kuang4
+𰽛	jiao3
+𰽛	qiao3
+𰽜	kou1
+𰽜	ou1
+𰽝	li4
+𰽞	e4
+𰽟	jing3
+𰽟	jing4
+𰽠	zhi3
+𰽡	ri4
+𰽢	jian4
+𰽢	xian4
+𰽣	yin3
+𰽤	jue2
+𰽥	bing3
+𰽦	long2
+𰽧	pi1
+𰽨	zhai3
+𰽩	ka3
+𰽪	tong2
+𰽫	sheng1
+𰽬	he2
+𰽭	gou1
+𰽮	fu2
+𰽯	zhu4
+𰽰	ban4
+𰽱	fu2
+𰽲	ji2
+𰽳	qin1
+𰽴	kua3
+𰽵	guang1
+𰽶	tong2
+𰽷	hui4
+𰽸	pi1
+𰽹	chi3
+𰽺	gui3
+𰽺	wei3
+𰽻	ren2
+𰽻	ren3
+𰽼	bing3
+𰽽	yang2
+𰽾	guo4
+𰽿	nie4
+𰽿	zhe2
+𰾀	bo2
+𰾁	gong3
+𰾁	hong4
+𰾂	zhen4
+𰾃	chuo4
+𰾃	zhuo2
+𰾄	mei2
+𰾄	meng2
+𰾅	han2
+𰾆	gu3
+𰾆	yu4
+𰾇	tun1
+𰾈	sha1
+𰾉	han4
+𰾊	cong1
+𰾋	fu3
+𰾋	ku4
+𰾌	jian4
+𰾌	zan4
+𰾍	biao3
+𰾎	pi1
+𰾏	tao2
+𰾐	fei4
+𰾐	pi1
+𰾑	jin1
+𰾑	pian1
+𰾑	qian1
+𰾒	guan3
+𰾓	ta4
+𰾔	cheng2
+𰾕	ye4
+𰾖	dui4
+𰾖	duo4
+𰾗	zhen1
+𰾘	chen3
+𰾙	yu2
+𰾚	wei3
+𰾛	jie4
+𰾜	duan1
+𰾝	sheng1
+𰾝	xing1
+𰾞	zong1
+𰾟	fu4
+𰾠	chan2
+𰾡	hong1
+𰾢	shi1
+𰾣	duo2
+𰾤	xia2
+𰾥	kui2
+𰾦	cuan1
+𰾦	zuan4
+𰾧	ao4
+𰾨	gou1
+𰾩	ge1
+𰾩	ta4
+𰾩	ye4
+𰾪	e4
+𰾪	ya4
+𰾫	jian4
+𰾬	da1
+𰾬	ta1
+𰾭	ai4
+𰾮	lian2
+𰾯	tang2
+𰾰	cui1
+𰾱	cong1
+𰾲	ao2
+𰾲	lu4
+𰾳	lan2
+𰾴	si1
+𰾵	gu1
+𰾶	hui4
+𰾶	rui4
+𰾶	sui4
+𰾷	zan1
+𰾸	ding3
+𰾹	juan1
+𰾺	yue4
+𰾻	dian4
+𰾼	quan1
+𰾽	zhu2
+𰾾	nie4
+𰾿	ge3
+𰾿	la4
+𰿀	jian4
+𰿁	ao1
+𰿁	ao2
+𰿂	xu1
+𰿃	mie4
+𰿄	lei2
+𰿅	juan1
+𰿅	xi1
+𰿆	zuan1
+𰿆	zuan4
+𰿇	zha2
+𰿈	jian1
+𰿉	lei3
+𰿊	luo2
+𰿋
+𰿋	ji4
+𰿌	ji4
+𰿍
+𰿎	gan4
+𰿎	qian2
+𰿏
+𰿐
+𰿑	ji4
+𰿒	sheng4
+𰿓	sheng4
+𰿔
+𰿕
+𰿖	ai3
+𰿖	da1
+𰿗
+𰿘
+𰿙
+𰿚
+𰿛
+𰿜
+𰿝
+𰿞
+𰿞	jian1
+𰿞	jian4
+𰿞	xuan2
+𰿟
+𰿠
+𰿡	lun2
+𰿢
+𰿣	feng1
+𰿤
+𰿥	cheng4
+𰿦	zhen4
+𰿧	chuang3
+𰿨	guan3
+𰿩	xia1
+𰿩	xia3
+𰿪	fen1
+𰿫	wei3
+𰿬	peng1
+𰿬	peng4
+𰿭	dian4
+𰿭	tian2
+𰿮
+𰿯	dou4
+𰿰	zuan1
+𰿱
+𰿲
+𰿳	sha1
+𰿴	ya4
+𰿵	yu2
+𰿶
+𰿷
+𰿸	qu2
+𰿹	guang1
+𰿺	chang1
+𰿺	tang1
+𰿺	tang2
+𰿻	se4
+𰿻	xi4
+𰿼
+𰿽
+𰿾	pi4
+𰿿
+𱀀
+𱀁	qian1
+𱀂	zi3
+𱀃	shi1
+𱀄	yan2
+𱀅	jue2
+𱀅	pi4
+𱀆
+𱀇	wei3
+𱀈	zuo4
+𱀉	xu3
+𱀊
+𱀋	duo4
+𱀌	xian2
+𱀍	yu1
+𱀎	ban3
+𱀏	qi3
+𱀐	ai1
+𱀑	zhi4
+𱀒	zhi4
+𱀓	qiao4
+𱀔	di1
+𱀕	jun4
+𱀖	jun4
+𱀗	cuo4
+𱀘	ling2
+𱀙	beng1
+𱀚
+𱀛	she3
+𱀜	dui4
+𱀝	fu4
+𱀞
+𱀟	guo1
+𱀠	gui1
+𱀡	fen2
+𱀢	yu4
+𱀣	di1
+𱀤	yan3
+𱀤	yan4
+𱀥	sou1
+𱀦	xian4
+𱀧
+𱀨	lin2
+𱀩	xian4
+𱀪
+𱀫	jun4
+𱀬	ling2
+𱀭	xu1
+𱀮	ji4
+𱀯
+𱀰	wei1
+𱀱	chan2
+𱀱	zhan4
+𱀲	yang2
+𱀳	fen2
+𱀴	tui2
+𱀵	zun1
+𱀶	yan3
+𱀷	ta4
+𱀸	xia4
+𱀹	ge2
+𱀺
+𱀻
+𱀼	xi1
+𱀽	xi1
+𱀾	ni3
+𱀿
+𱁀	duo4
+𱁀	hui1
+𱁁	zou1
+𱁂	zhui4
+𱁃	ai4
+𱁄	ai4
+𱁅	que4
+𱁆	shou4
+𱁇	zhong3
+𱁈	yong1
+𱁉
+𱁊	qi2
+𱁋	cong2
+𱁌	liu4
+𱁍
+𱁎	an1
+𱁏	bin1
+𱁐	tiao4
+𱁑	pi1
+𱁒	dan4
+𱁒	dui4
+𱁓	yao3
+𱁔
+𱁕	tiao3
+𱁖
+𱁗	yin2
+𱁘	lu3
+𱁙
+𱁚
+𱁛
+𱁜	chi4
+𱁝	chi4
+𱁞	wan1
+𱁟	yun3
+𱁠
+𱁡	peng2
+𱁢
+𱁣
+𱁤
+𱁥
+𱁦
+𱁧
+𱁨
+𱁩
+𱁪	lei2
+𱁫	huo4
+𱁬
+𱁭	dian4
+𱁮
+𱁯	fei1
+𱁰
+𱁱	yang2
+𱁲
+𱁳	duo2
+𱁴	bi4
+𱁴	bing3
+𱁵
+𱁶	qian1
+𱁷	du2
+𱁸
+𱁹	gui4
+𱁺	lou2
+𱁻
+𱁼
+𱁽	lan2
+𱁾	lan2
+𱁿	cha2
+𱂀
+𱂁	bei4
+𱂁	pi2
+𱂂
+𱂃	sa3
+𱂄	mei4
+𱂄	wa4
+𱂅	bi4
+𱂅	bie2
+𱂆	ge2
+𱂇	quan4
+𱂈	yun4
+𱂉	qiao4
+𱂉	shao1
+𱂊	she4
+𱂊	xie4
+𱂋	du2
+𱂌	huo4
+𱂍	duan4
+𱂎	xie4
+𱂏
+𱂐	yun4
+𱂑	jing1
+𱂒
+𱂓	an1
+𱂔
+𱂕	cui4
+𱂖
+𱂗
+𱂘	cui4
+𱂙	xia4
+𱂚	ge2
+𱂚	han4
+𱂛	lv3
+𱂜
+𱂝	qiao2
+𱂞	mian2
+𱂟	yu4
+𱂠	duo2
+𱂡	gen3
+𱂡	ku1
+𱂢	zhuo1
+𱂣	yao2
+𱂤	hui4
+𱂥	e2
+𱂦	ping1
+𱂧	lei4
+𱂨	e4
+𱂩	fu3
+𱂪	dian1
+𱂫	yan3
+𱂬	kui2
+𱂭	chui2
+𱂮	pi1
+𱂯	cui4
+𱂰	han4
+𱂱	kan3
+𱂲	sai1
+𱂳	gao3
+𱂳	hao2
+𱂴	jiang3
+𱂵	hua2
+𱂵	kui1
+𱂶
+𱂶	xin4
+𱂷	zhan1
+𱂸	bin1
+𱂹	liao2
+𱂺	piao3
+𱂻	qiao2
+𱂼
+𱂽	zhan3
+𱂾	liu3
+𱂿	biao1
+𱃀	sou1
+𱃁	fan1
+𱃂	fang2
+𱃃	ying1
+𱃄	pou1
+𱃅
+𱃆	bu4
+𱃇	ye4
+𱃈	sou1
+𱃉	sou1
+𱃊	liu2
+𱃋	ao2
+𱃌	sou1
+𱃍	liao2
+𱃍	liu4
+𱃎	chi1
+𱃏	zhan3
+𱃐	piao1
+𱃐	piao4
+𱃑	xie4
+𱃒	she4
+𱃓	tui2
+𱃔	biao1
+𱃔	diu1
+𱃕	xia1
+𱃖	you3
+𱃗	tai2
+𱃘	lie4
+𱃙	liu2
+𱃚	li4
+𱃛	hu1
+𱃜	rui2
+𱃝	xiu1
+𱃞	yu2
+𱃟	xi2
+𱃠	biao1
+𱃡	yu2
+𱃢	wu1
+𱃢	yu2
+𱃣
+𱃤
+𱃥
+𱃦
+𱃧
+𱃨
+𱃩
+𱃪	qi2
+𱃫
+𱃬
+𱃭
+𱃮
+𱃯
+𱃰
+𱃱	ge1
+𱃱	qi4
+𱃱	xi4
+𱃲	yu4
+𱃳	bo2
+𱃴	fan4
+𱃵	ying3
+𱃶
+𱃷	ban3
+𱃸	zhi4
+𱃹	en4
+𱃺	tian3
+𱃻
+𱃼	fen1
+𱃽	e4
+𱃾	bu4
+𱃿	dan4
+𱄀	fen1
+𱄁	tou3
+𱄂	sou1
+𱄃	jian1
+𱄄	hui4
+𱄅	xiu1
+𱄆	xi1
+𱄇	shang3
+𱄈	meng2
+𱄉	en4
+𱄊	zan4
+𱄋
+𱄌	dai4
+𱄍	guo2
+𱄎
+𱄏
+𱄐
+𱄑
+𱄒	mao2
+𱄓	chi2
+𱄔	yin1
+𱄕	tuo2
+𱄖	liu2
+𱄗	dan3
+𱄗	dan4
+𱄘
+𱄙	qu1
+𱄚	mo4
+𱄛
+𱄜	zou1
+𱄝
+𱄞	tao2
+𱄟	chi2
+𱄠
+𱄡	fu4
+𱄢	jun4
+𱄣	tao2
+𱄤	yu2
+𱄥	cheng2
+𱄦	zong1
+𱄧
+𱄨	xuan1
+𱄩	su4
+𱄪	e4
+𱄫	jiao1
+𱄬
+𱄭	liu2
+𱄮	ji4
+𱄯	la4
+𱄯	lie4
+𱄰	zong1
+𱄱	ceng2
+𱄲	e4
+𱄳	shuang1
+𱄴	teng2
+𱄵	si4
+𱄶	xiong4
+𱄷	bao4
+𱄸	li2
+𱄹	chuo4
+𱄺	zui4
+𱄻	la4
+𱄻	lie4
+𱄼	zhu4
+𱄽	tuo2
+𱄽	zhe2
+𱄾	guang1
+𱄿	du2
+𱅀	bao3
+𱅁	zhi2
+𱅂	sa4
+𱅃	ju4
+𱅄	ba2
+𱅅	long2
+𱅆
+𱅇	zhen3
+𱅈	bi4
+𱅉	rong2
+𱅊	zhi4
+𱅋	er3
+𱅌	ji4
+𱅍
+𱅎	fu2
+𱅏	tao2
+𱅐	bo2
+𱅑	teng2
+𱅒	cheng3
+𱅓	bo2
+𱅔	song3
+𱅕	lai2
+𱅖	xuan1
+𱅗	e3
+𱅘	xian2
+𱅙	tui3
+𱅚	she4
+𱅛	tuo2
+𱅜	yao3
+𱅝	pian4
+𱅞	xia2
+𱅟	rou2
+𱅠	han4
+𱅡	gui1
+𱅢	cheng2
+𱅣	tao1
+𱅤	pin1
+𱅥	meng2
+𱅦	huang2
+𱅧	xu1
+𱅨	wu4
+𱅩	xi2
+𱅪	dian4
+𱅫	yu4
+𱅬	yan4
+𱅭
+𱅮	xiao1
+𱅯	kua4
+𱅰	yan1
+𱅱
+𱅲
+𱅳
+𱅴	ting2
+𱅵	shang1
+𱅶
+𱅷
+𱅸	ta3
+𱅹	ting2
+𱅺	qiao1
+𱅻	gen4
+𱅼	ya1
+𱅽	gao1
+𱅾	yuan2
+𱅿
+𱆀	qian2
+𱆁	qian1
+𱆂	xing1
+𱆃	kui4
+𱆄	bi4
+𱆄	fei4
+𱆅	lan2
+𱆆	man2
+𱆇	xiu1
+𱆈	zuan3
+𱆉	pin1
+𱆊
+𱆋	guo1
+𱆌	shang1
+𱆍	chao3
+𱆎	li4
+𱆏
+𱆐	yu4
+𱆐	zhou4
+𱆑	xin2
+𱆑	zeng4
+𱆒	xian2
+𱆓	geng1
+𱆔	xin2
+𱆔	zeng4
+𱆕	mie4
+𱆖	ji1
+𱆗	kui2
+𱆘	mei4
+𱆙	chao1
+𱆙	chao2
+𱆙	zhao4
+𱆚	kui3
+𱆛	chou3
+𱆜	wang3
+𱆝
+𱆞
+𱆟	ji4
+𱆠	wang3
+𱆡	bin1
+𱆢	ling2
+𱆣
+𱆤	wan4
+𱆥	dan1
+𱆦
+𱆧
+𱆨	hang2
+𱆩
+𱆪	yuan1
+𱆫
+𱆬	bi4
+𱆭
+𱆮	shen1
+𱆯	ji4
+𱆰
+𱆱	bu4
+𱆲
+𱆳	song1
+𱆴	lin2
+𱆵	e4
+𱆶	yan3
+𱆷
+𱆸	pang2
+𱆹	lou2
+𱆺	gao1
+𱆻	ying4
+𱆼
+𱆽	ze2
+𱆽	zei2
+𱆾	guan1
+𱆿
+𱇀	qi1
+𱇁	liang4
+𱇂
+𱇃	shan4
+𱇃	zhan1
+𱇄	lei3
+𱇅	shan4
+𱇅	zhan1
+𱇆
+𱇇
+𱇈
+𱇉
+𱇊	li3
+𱇋	wan1
+𱇌
+𱇍	yang1
+𱇎
+𱇏	tuo1
+𱇐	yuan2
+𱇑	pei4
+𱇒	pi2
+𱇓	hu2
+𱇔	na4
+𱇕	yu2
+𱇖	ban3
+𱇗	lun2
+𱇘	hang2
+𱇙	shen3
+𱇚	mo4
+𱇛	wei4
+𱇜	qu1
+𱇝	pi1
+𱇞	shan4
+𱇟	xia2
+𱇠	qiu2
+𱇡	xing1
+𱇢	gun3
+𱇣	bo1
+𱇤	you3
+𱇥	geng4
+𱇦	ku1
+𱇧	yi2
+𱇨	shu1
+𱇩	jiao3
+𱇪	ge2
+𱇪	luo4
+𱇫	ru2
+𱇬	yi2
+𱇭	lai2
+𱇮	mang2
+𱇯	shao1
+𱇰	ye4
+𱇱	tiao2
+𱇲	fu2
+𱇳	suo1
+𱇴	na4
+𱇵	ji4
+𱇶	lu4
+𱇷	cuo4
+𱇸	ying4
+𱇹	zhi4
+𱇺	ji4
+𱇻	xian4
+𱇼	jiu4
+𱇽	ju2
+𱇾	zong1
+𱇿	su4
+𱈀	ju4
+𱈁	shan1
+𱈂	yu2
+𱈃	hua2
+𱈄	hou2
+𱈅	zong1
+𱈆	lou2
+𱈇	geng4
+𱈈	geng4
+𱈉	qian2
+𱈊	liu2
+𱈋	hao4
+𱈌	xiu1
+𱈍	ruo4
+𱈎	sang1
+𱈏	zhu2
+𱈐	zhuan1
+𱈑	hui1
+𱈒	si1
+𱈓	xun2
+𱈔	cen2
+𱈕	fan1
+𱈖	lai4
+𱈗	ru2
+𱈘	chang2
+𱈙	mie4
+𱈚	e4
+𱈛	meng2
+𱈜	xian1
+𱈝	xiao1
+𱈞
+𱈟	zhi3
+𱈟	zhi4
+𱈠
+𱈡
+𱈢
+𱈣	dan4
+𱈤
+𱈥	tai2
+𱈦
+𱈧	chi1
+𱈨	cheng2
+𱈩	yan4
+𱈪	yan4
+𱈫	han4
+𱈬	chun2
+𱈭
+𱈮
+𱈯
+𱈰	jiu1
+𱈱
+𱈲	lou2
+𱈲	lv3
+𱈳	tu2
+𱈴
+𱈵	e4
+𱈶
+𱈷	su4
+𱈸	pi2
+𱈹	liu4
+𱈺	qi1
+𱈻	jin1
+𱈼	kou4
+𱈼	ku1
+𱈽	e4
+𱈾	yang2
+𱈿	gu1
+𱉀	e4
+𱉁
+𱉂	ning2
+𱉃
+𱉄	liu2
+𱉅	si1
+𱉆	bu3
+𱉇	yi3
+𱉈	diao1
+𱉈	jiao1
+𱉈	zhao1
+𱉉	liao2
+𱉊	gan1
+𱉊	han4
+𱉊	yan4
+𱉋	han4
+𱉋	yan4
+𱉌	yi4
+𱉍	yu4
+𱉎	fu1
+𱉎	gui1
+𱉏	tuan2
+𱉐	ju2
+𱉑	ban1
+𱉑	fen2
+𱉒	huan1
+𱉓	hu4
+𱉔	jue2
+𱉕	ge1
+𱉖	pi2
+𱉗	dan4
+𱉘	ju1
+𱉙	zhi3
+𱉙	zhi4
+𱉚	die2
+𱉛	zhi4
+𱉜	fu1
+𱉝	bi1
+𱉞	wu3
+𱉟	ze2
+𱉠	jing4
+𱉡	bian3
+𱉢	yao1
+𱉣	song1
+𱉤	gui4
+𱉤	jue2
+𱉥	jia2
+𱉦	lao3
+𱉧	yuan1
+𱉨	ya1
+𱉩	yi2
+𱉪	ai4
+𱉫	zhu1
+𱉬	jiao1
+𱉭	gui1
+𱉮	luo4
+𱉯	yang2
+𱉰	yu4
+𱉱	kun1
+𱉲	mou2
+𱉳	mai3
+𱉴	yang2
+𱉵	lai2
+𱉶	han4
+𱉷	yi4
+𱉸	tu2
+𱉹	xi1
+𱉺	fu2
+𱉻	tuo3
+𱉼	ji1
+𱉽	ji4
+𱉾	jun1
+𱉿	jun1
+𱊀	lu4
+𱊁	qi2
+𱊂	ming2
+𱊃	li2
+𱊄	yi4
+𱊅	zhui1
+𱊆	tu4
+𱊇	ju2
+𱊈	yi4
+𱊉	xue2
+𱊊	kong1
+𱊋	jian1
+𱊌	ju1
+𱊍	duo4
+𱊎	zi1
+𱊏	bi4
+𱊏	fu2
+𱊐	jie1
+𱊑	chun1
+𱊒	yuan2
+𱊓	mo4
+𱊔	fu2
+𱊕	chi2
+𱊕	ti2
+𱊖	tu2
+𱊗	rou2
+𱊘	chuan4
+𱊘	zhi4
+𱊙	zhen4
+𱊚	tian2
+𱊛	sun3
+𱊜	niao3
+𱊝	tang2
+𱊞	chi4
+𱊟	xia2
+𱊠	tu2
+𱊡	yao3
+𱊢	ji4
+𱊣	an1
+𱊤	yong1
+𱊥	shang1
+𱊦	yi4
+𱊧	jue2
+𱊨	qu2
+𱊩	tu2
+𱊪	ling2
+𱊫	yu2
+𱊬	zhu3
+𱊭	yu4
+𱊮	luo2
+𱊯	yi1
+𱊰	yi4
+𱊱	di2
+𱊲	bu3
+𱊳	lei3
+𱊴	yan4
+𱊵	yue4
+𱊶	jin1
+𱊷
+𱊸	jin1
+𱊹	jian3
+𱊺	lu3
+𱊻	lu3
+𱊼	chuai4
+𱊽	huai2
+𱊾
+𱊿	suan1
+𱋀	su4
+𱋁	cu1
+𱋂	mi2
+𱋃	xi1
+𱋄	mian4
+𱋅	qu1
+𱋆	shan4
+𱋇	he2
+𱋈	kuang4
+𱋉	fu1
+𱋊	mo4
+𱋋	qu4
+𱋌	qu1
+𱋍	tou3
+𱋎	hua2
+𱋏	chao3
+𱋐	qu1
+𱋑	qiao2
+𱋒	su4
+𱋒	xie4
+𱋓	ge2
+𱋔	bing3
+𱋕	chao3
+𱋕	qu1
+𱋖	fu1
+𱋗	fu1
+𱋘	sha1
+𱋙	guo3
+𱋚	bei4
+𱋛	fu1
+𱋜	mai4
+𱋝	bu4
+𱋞	ku1
+𱋟	hu2
+𱋠	tou3
+𱋡	lou3
+𱋢	chao3
+𱋣	qu1
+𱋤	mou2
+𱋥	mou2
+𱋦	bei4
+𱋧	cuo2
+𱋨	sha1
+𱋩	cuo2
+𱋪	di1
+𱋫	huang2
+𱋬	lian2
+𱋭	lai2
+𱋮	meng2
+𱋯
+𱋰
+𱋱	fen2
+𱋲	tou3
+𱋳
+𱋴	chan3
+𱋵	li2
+𱋶	lu2
+𱋷	yu4
+𱋸	pang1
+𱋹	zeng4
+𱋺
+𱋻	qu4
+𱋼	gou1
+𱋼	qu2
+𱋽	gou1
+𱋽	qu2
+𱋾	cu4
+𱋿	qu4
+𱌀	ran2
+𱌁	gou1
+𱌁	qu2
+𱌂
+𱌃	wa1
+𱌄	zhi1
+𱌅	mi2
+𱌆	meng3
+𱌇	bie1
+𱌈	ma2
+𱌉	bi4
+𱌊	chang1
+𱌋	jia1
+𱌌	yun1
+𱌍	jun4
+𱌎
+𱌏	hun2
+𱌐	xian4
+𱌑	pu2
+𱌒
+𱌓
+𱌔
+𱌕	he1
+𱌖	nong4
+𱌗	ji4
+𱌘	zi1
+𱌙	zi1
+𱌚	chen4
+𱌛	yao3
+𱌜	xie4
+𱌝	chi2
+𱌞	suan1
+𱌟	nie4
+𱌠	nie4
+𱌡	yi3
+𱌢	ju3
+𱌣	chuai4
+𱌤	feng2
+𱌥	yin3
+𱌦	ken3
+𱌧	ju3
+𱌨	lian2
+𱌩
+𱌪	yao3
+𱌫	yan4
+𱌬	ze2
+𱌭	zou1
+𱌮	chu1
+𱌯	chi1
+𱌰	yao3
+𱌱	xie4
+𱌲	quan2
+𱌳	yun3
+𱌴	zhai1
+𱌵	zhan1
+𱌶	zou1
+𱌷	ya4
+𱌷	yi1
+𱌸	zhi4
+𱌹	yu2
+𱌺	dian1
+𱌻	ke1
+𱌻	ke4
+𱌼	ci1
+𱌽	yi4
+𱌾
+𱌿	jian1
+𱍀	kan1
+𱍁	gong1
+𱍁	wo4
+𱍂	da2
+𱍃	yuan2
+𱍄	ran2
+𱍅	gou1
+𱍆	jiao1
+𱍇	tong2
+𱍈	bie1
+𱍉	xiao1
+𱍊	chang4
