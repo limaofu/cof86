@@ -1,0 +1,95 @@
+# Rime schema settings
+# encoding: utf-8
+# Author: Cof-Lee
+# 2020-06-17
+
+schema:
+  schema_id: cof_punctuator
+  name: "Cof符号输入法"
+  version: "0.2"
+  author:
+    - 发明人 Cof-Lee
+  description: 
+    符号输入
+    xx
+
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - reverse_lookup_translator
+    - table_translator
+    - script_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  delimiter: "`"
+  alphabet: 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
+  max_code_length: 12
+  algebra:
+    #- derive/q/x/
+
+
+translator:
+  dictionary: cof_punctuator
+  enable_charset_filter: true
+  enable_sentence: true
+  enable_encoder: true
+  encode_commit_history: true
+  max_phrase_length: 4
+  enable_user_dict: false
+  enable_completion: true
+  strict_spelling: true
+
+
+punctuator:
+  import_preset: default
+
+ascii_composer:
+  good_old_caps_lock: true
+  switch_key:
+    Caps_Lock: clear
+    Control_L: noop
+    Control_R: noop
+    Eisu_toggle: clear
+    Shift_L: commit_code
+    Shift_R: commit_code
+
+key_binder: 
+  bindings:
+    - {accept: semicolon, send: 2, when: has_menu}
+    - {accept: apostrophe, send: 3, when: has_menu}
+    - {accept: space, send: space, when: has_menu}
+    - {accept: space, send: Escape, when: composing}
+    - {accept: Tab, send: Escape, when: has_menu}
+    - {accept: Tab, send: Escape, when: composing}
+    - {accept: minus, send: Page_Up, when: has_menu}
+    - {accept: equal, send: Page_Down, when: has_menu}
+  
+
+recognizer:
+  import_preset: default
+  patterns:
+
+style:
+  color_scheme: dark_temple
+  font_face: "宋体"
+  font_point: 20
+  label_format: "%s."
