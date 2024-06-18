@@ -1,7 +1,7 @@
 # utf-8
 # cjk_b.dict.yaml
-# cjk扩展B 42723 个单字
-# 2020-07-02
+# cjk扩展B 42711 个单字
+# 2020-09-17
 #
 #
 #
@@ -22,7 +22,7 @@
 # Wozy <wozy.in@gmail.com>
 #
 ---
-name: cjk_b
+name: cof86_cjk_b
 version: "0.1"
 sort: by_weight
 columns:
@@ -195,7 +195,6 @@ columns:
 𩧨	cmg	0
 𠫖	cnn	0
 𢟀	cnu	0
-龴	cny	0
 𥸿	coi	0
 𤆃	cou	0
 𤆆	cou	0
@@ -369,7 +368,6 @@ columns:
 𩂍	fiu	0
 𡉭	fjg	0
 𠚧	fjh	0
-龺	fjj	0
 𠦝	fjj	0
 𧌙	fju	0
 𠮷	fkf	0
@@ -548,7 +546,6 @@ columns:
 𡭞	iou	0
 𤆲	iou	0
 𣲧	ioy	0
-龸	ipb	0
 𨑾	ipi	0
 𨥗	iqf	0
 𣲬	irh	0
@@ -994,7 +991,6 @@ columns:
 𠕽	piu	0
 𠕾	pjf	0
 𧉌	pju	0
-㓁	pqb	0
 𡦾	pqb	0
 𡧳	psf	0
 𣎾	psu	0
@@ -1260,10 +1256,8 @@ columns:
 𠬧	ucy	0
 𠲩	udf	0
 𥩪	udg	0
-龹	udi	0
 𤴻	udi	0
 𨳓	udi	0
-⺶	udr	0
 𦍍	udr	0
 𦚏	uef	0
 𦚎	ueg	0
@@ -2327,7 +2321,6 @@ columns:
 𢎈	aghd	0
 𦭒	aghf	0
 𦴀	aghf	0
-龷	aghg	0
 𦭢	aghg	0
 𦬛	aghn	0
 𦼇	aghn	0
@@ -11434,7 +11427,6 @@ columns:
 𤤇	ggdy	0
 𤧵	ggef	0
 𤦭	ggeg	0
-龶	gggg	0
 𤣩	gggg	0
 𤩘	gggi	0
 𤩙	gggn	0
@@ -14698,7 +14690,6 @@ columns:
 𣿼	ihwh	0
 𤂓	ihwm	0
 𣸜	ihwv	0
-⺌	ihyt	0
 𤂒	iiaq	0
 𣴒	iidy	0
 𣴘	iidy	0
@@ -22441,7 +22432,6 @@ columns:
 𠙝	nhqm	0
 𤙘	nhth	0
 𣮮	nhtn	0
-㣺	nhty	0
 𦎨	nhud	0
 𤛉	nhvh	0
 𧕱	nhvj	0
@@ -22660,7 +22650,6 @@ columns:
 𡳚	nnlg	0
 𦐯	nnlg	0
 𠃌	nnll	0
-⺄	nnll	0
 𠃊	nnll	0
 𠃋	nnll	0
 𠃑	nnll	0
@@ -29440,7 +29429,6 @@ columns:
 𢳾	rtgl	0
 𢰔	rtgm	0
 𢷠	rtgo	0
-龵	rtgt	0
 𢹀	rtgw	0
 𢯏	rthc	0
 𢸥	rthc	0
@@ -33018,7 +33006,6 @@ columns:
 𥭆	tjfj	0
 𩡒	tjfl	0
 𩡉	tjfv	0
-得	tjgf	0
 𩡥	tjgi	0
 𥵘	tjgj	0
 𢖤	tjgm	0
@@ -36963,7 +36950,6 @@ columns:
 𡠡	vhej	0
 𤲯	vhfg	0
 𡬲	vhfy	0
-⺻	vhgd	0
 𡎀	vhgf	0
 𧷇	vhgm	0
 𧷈	vhgm	0
@@ -40830,7 +40816,6 @@ columns:
 𡢮	xyxv	0
 𡤨	xyxv	0
 𦦽	xyxv	0
-龻	xyxy	0
 𠨫	xyxy	0
 𤫜	xyxy	0
 𦇥	xyxy	0
@@ -42753,3 +42738,6 @@ columns:
 𣁕	yyyu	0
 𧮦	yyyy	0
 𠠼	yln	97
+𦐚	nrg	25700000
+𥴂	tjgf	1110
+𩠺	tjgf	9000

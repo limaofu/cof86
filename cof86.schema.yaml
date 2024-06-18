@@ -1,26 +1,30 @@
-# utf-8
-# wubi86_cof.schema.yaml
+# encoding: utf-8
+# cof86.schema.yaml
 # Recommended font family: Serif_Cof
-# 2020-09-07
+# weasel-0.15.0.0
+# author: Cof-Lee（李茂福）
+# update: 2024-06-18
 
 schema:
   author:
-    - "发明人 王永民先生"
+    - "五笔发明人 王永民先生"
+    - "cof86扩展者 李茂福"
   description: |
-    五笔86版 cof扩展版
-    码表源自 ibus-table 删除4字及以上词
+    五笔86  cof扩展版
+    码表源自 ibus-table
     扩充了大写字母繁体部件字根
     开头大写字母进入日文假名输入模式
-    按下小写 z 键进入cof符号输入法
+    按下z键 进入cof符号输入法
     按下z键时，会提示上次输入的字/词
     按下Tab键可取消当前输入
-    按下Shift+space 向下选择
-    扩展人：Cof-Lee 2020-09-07
-  name: "五笔86_cof"
-  schema_id: wubi86_cof
-  version: 1.3
-  dependencies:
-    - easy_en
+    扩展人：Cof-Lee 2024-06-18
+  name: "cof86五笔"
+  schema_id: cof86
+  version: 1.5
+  #dependencies:
+  #  - easy_en
+  #icon: "cof_zh.ico"
+  #ascii_icon: "cof_en.ico"
 
 speller:
   delimiter: "/"
@@ -30,26 +34,26 @@ speller:
   #auto_select_unique_candidate: true
   #auto_clear: max_length
 
-#chord_composer:
-  # 字母表，包含用於並擊的按鍵（用作并击的键就不推荐做单打的键）
-  # 擊鍵雖有先後，形成並擊時，一律以字母表順序排列
-  #alphabet: "wsxedcrfvujmikol "
-  # 拼寫運算規則，將一組並擊編碼轉換爲拼音音節
-  #algebra:
-    # 先將物理按鍵字符對應到宮保拼音鍵位中的拼音字母
-    #- 'xlit|swxdecfrvgtbnjum ki,lo.|sczhlfgdbktpRiuVaNIUeoE|'
-    # 以下根據宮保拼音的鍵位分別變換聲母、韻母部分
-    # 組合聲母
-    #- xform/^df/vbrq/
-    #- xform/^fj/gitf/
-    #- xform/^DF/gitf/
-    #- xform/^EF/gitf/
-    #- xform/^SDF/gitf/
-    #- xform/^v /gitf/
-  # 並擊過程中套用的式樣
-  #prompt_format:
-    # 加方括弧
-    #- "xform/^(.*)$/<$1>/"
+# chord_composer:
+#   # 字母表，包含用於並擊的按鍵（用作并击的键就不推荐做单打的键）
+#   # 擊鍵雖有先後，形成並擊時，一律以字母表順序排列
+#   alphabet: "wsxedcrfvujmikol "
+#   # 拼寫運算規則，將一組並擊編碼轉換爲拼音音節
+#   algebra:
+#     # 先將物理按鍵字符對應到宮保拼音鍵位中的拼音字母
+#     - 'xlit|swxdecfrvgtbnjum ki,lo.|sczhlfgdbktpRiuVaNIUeoE|'
+#     # 以下根據宮保拼音的鍵位分別變換聲母、韻母部分
+#     # 組合聲母
+#     - xform/^df/vbrq/
+#     - xform/^fj/gitf/
+#     - xform/^DF/gitf/
+#     - xform/^EF/gitf/
+#     - xform/^SDF/gitf/
+#     - xform/^v /gitf/
+#   # 並擊過程中套用的式樣
+#   prompt_format:
+#     # 加方括弧
+#     - "xform/^(.*)$/<$1>/"
 
 switches:
   - name: ascii_mode
@@ -102,8 +106,8 @@ translator:
     #- "xlit|abcdefghijklmnopqrstuvwxyz|♠♥♣♦♤♡♧♢☻🀠🀄🀚🀛🀜🀟⌚☂⛅🀩🀅♔♘⛄♙❆⚢|"
     #- "xlit|abcdefghijklmnopqrstuvwxyz|🐭🐮🐅🐰🐉🐘🐎🐏🐒🐓🐕🐷🐫🦌🐂👻👽💩❤💔🐥🐸🦖🦋🐝z|"
     #- "xlit|ABCDEFGHIJKLMNOPQRSTUVWXYZ|爿馬臣鹵𠀐車貝韋龍釒鳥門⺻飠糹訁☠|"
-  dictionary: wubi86_cof
-  prism: wubi86_cof
+  dictionary: cof86_base
+  prism: cof86_base
   disable_user_dict_for_patterns:
     - "^z.*$"
   enable_charset_filter: true
@@ -119,7 +123,7 @@ engine:
   processors:
     - ascii_composer
     - recognizer
-    - chord_composer  # 實現並擊按鍵處理
+    - chord_composer
     - key_binder
     - speller
     - punctuator
@@ -180,13 +184,14 @@ key_binder:
     - {accept: "Control+f", toggle: zh_trad, when: has_menu}
     - {accept: "Control+g", toggle: gbk_code, when: has_menu}
     - {accept: "Control+u", toggle: Utf16_code, when: has_menu}
-    - {accept: "Control+p", toggle: pinyin, when: has_menu}
+    - {accept: "Control+m", toggle: pinyin, when: has_menu}
     - {accept: "Control+t", toggle: tongyong, when: has_menu}
     - {accept: "Control+w", toggle: dic_4w_en, when: has_menu}
     - {accept: "Control+q", toggle: punct, when: has_menu}
     - {accept: minus, send: Page_Up, when: has_menu}
     - {accept: equal, send: Page_Down, when: has_menu}
     - {accept: Return, send: "Control+Shift+Return", when: has_menu}
+
 
 menu:
   page_size: 5
@@ -199,12 +204,12 @@ history:
   size: 1
   #initial_quality: 1000
 
-english:
-  dictionary: easy_en
-  spelling_hints: 9
-  enable_completion: true
-  enable_sentence: false
-  initial_quality: -1
+# english:
+#   dictionary: easy_en
+#   spelling_hints: 9
+#   enable_completion: true
+#   enable_sentence: false
+#   initial_quality: -1
 
 simplifier:
   opencc_config: s2t.json
@@ -285,7 +290,7 @@ punctuator:
     "'": {pair: ["‘", "’"]}
     "(": "（"
     ")": "）"
-    "*": ["*", "＊", "·", "・", "×", "※", "❂"]
+    "*": ["*", "＊", "★", "·", "・", "×", "※", "❂"]
     #"+": ["+", "＋"]
     "+": {commit: "+"}
     ",": {commit: "，"}
@@ -324,96 +329,26 @@ punctuator:
     "/8": ["⑧", "⑻", "㈧"]
     "/9": ["⑨", "⑼", "㈨"]
     "/0": ["⑩", "⑽", "㈩"]
+    "/10": ["⑩", "⑽", "㈩"]
+    "/11": ["⑪"]
+    "/12": ["⑫"]
+    "/13": ["⑬"]
+    "/14": ["⑭"]
+    "/15": ["⑮"]
+    "/16": ["⑯"]
+    "/17": ["⑰"]
+    "/18": ["⑱"]
+    "/19": ["⑲"]
     "/of": "℉"
     "/oc": "℃"
-    "/g": ["龶", "⺩", "⼀", "㇀"]
-    "/f": ["⻗", "𬺰", "",]
-    "/d": ["丆", "⻒", "𠂇", "", "", ""]
-    "/s": ["覀", "朩", ""]
-    "/a": ["丌", "卄", "艹", "龷", "⼶", "⼷", "𫠠", "匚", "", "", "", "", "", ""]
-    "/h": ["亅", "龰", "⺊", "⼁", "", "", ""]
-    "/j": ["刂", "⺜", "〢", "𫩏", ""]
-    "/k": ["〣"]
-    "/l": ["罒", "⼞", "𡆧", "㇣", "", "", ""]
-    "/m": ["冂", "⺆", "⺇", "", "", "", ""]
-    "/t": ["丿", "㇒", "夂", "夊", "攵", "〩", "彳", "⺮", "𠂉"]
-    "/r": ["龵", "⺁", "⺘", "", "", ""]
-    "/e": ["彡", "爫", "豕", "⺝", "冃", "𧘇", "𧰨", "", "", "", "", "", "", ""]
-    "/w": ["亻", "癶", "ㅅ", "𠆢", "", ""]
-    "/q": ["〤", "乂", "勹", "钅", "⺈", "𫶧", "", "", "", "", ""]
-    "/y": ["丶", "亠", "訁", "讠", "㇏", "", ""]
-    "/u": ["丬", "丷", "冫", "疒", "⺀", "䒑", "", ""]
-    "/i": ["氵", "⺌", "⺍", "𭕄", "氺", "⺢", "𣥂", "", "", "", ""]
-    "/o": ["灬", "", ""]
-    "/p": ["冖", "宀", "辶", "⻍", "⻎", "⼵", ""]
-    "/n": ["⼄", "乁", "𠃜", "乚", "㇟", "乛", "㇕", "忄", "⺄", "㇝", "⺒", "", "⺗", "㇁", "㇂", "㇃", "㇄", "㇗", "㇅", "㇆", "㇇", "㇈", "㇉", "㇞", "㇊", "㇋", "㇌", "㇍", "㇎", "㇙", "㇛", "㇜", "㇡", "㇢", "ㄣ", "ㄅ", "ㄟ", "ㄱ", "ㄴ", " ", "", "", ""]  
-    "/b": ["凵", "卩", "孑", "巜", "阝", "⻏", "⺋", "𠄐"]
-    "/v": ["巛", "彐", "⺽", "⼹", ""]
-    "/c": ["厶", "龴", "ㅈ", "ㄡ", ""]
-    "/x": ["纟", "⺓", "⼔", "𠤎", "", "", "", "", ""]
-# 未定义(9fb0--9fbb)龰龱龴龵龶龷龸龹龺龻
-# cjk扩A	䒑
-# cjk扩B	𠂇𠂉𡗗𤇾    𠃜𠄐𠆢𠤎𡆧𣥂𧘇𧰨
-# cjk扩E		𫠠𫤬𫩏𫶧
-# cjk扩F		𬺰𭕄
-#私用区：
-#私用区：
-#私用区：
-    "/oop": "𤇾"
-    "/nh": "ㄗ"
-    "/iw": "𫤬"
-    "/lq": "龱"
-    "/nd": "夬"
-    "/qd": "厃"
-    "/qn": "々"
-    "/py": "礻"
-    "/ft": "耂"
-    "/vh": "肀"
-    "/pu": "衤"
-    "/ee": "豸"
-    "/qn": "饣"
-    "/ip": "龸"
-    "/dn": "⺐"
-    "/tf": "⺧"
-    "/qt": "⺨"
-    "/nh": "⺪"
-    "/pw": "⺳"
-    "/ud": "⺶"
-    "/ug": "⺷"
-    "/kh": "⻊"
-    "/bt": "⼬"
-    "/ha": "⾌"
-    "/dw": "𡗗"
-    "/bh": "屮"
-    "/xf": "毌"
-    "/tr": "牜"
-    "/ud": "龹"
-    "/fj": "龺"
-    "/xyx": "龻"
-    "/A": [""]
-    "/B": ["爿"]
-    "/D": [""]
-    "/E": [""]
-    "/G": [""]
-    "/I": [""]
-    "/J": ["", ""]
-    "/O": ["", ""]
-    "/Q": ["釒"]
-    "/S": [""]
-    "/T": [""]
-    "/V": ["", "⺻"]
-    "/W": ["飠", "⻞", ""]
-    "/X": ["糹"]
 
-    
-#  㐱巠囙厷卂亽亾仒亇乊丅丄丂㞢㒷㐆ㄐ     ⺿    ⻖可⻏可  𠫓
-#  𠂋𠮠𡗒𤕫𤴔𫤬𫠣𫝀𫇦𨈐𦍌𦉰𦉶𥤢𤕫𤇾   屮艹⺧
+
 
 recognizer:
   patterns:
     #email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
     reverse_lookup: "^z[a-zA-Z0-9\/]*"
-    punct: "^/([0-9]0?|[A-Za-z]+)$"
+    punct: "^/([0-9][0-9]?|[A-Za-z]+)$"
     #uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
     #url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
 
@@ -426,13 +361,44 @@ reverse_lookup:
   enable_sentence: true
 
 
+#style:
+#  color_scheme: cof_color
+#  font_face: "Serif_Cof"
+#  font_point: 18
+#  label_font_face: "Serif_Cof"
+#  label_font_point: 16
+#  label_format: "%s "
+#  comment_font_face: "Serif_Cof"
+#  comment_font_point: 16
+#  preedit_type: "composition"
+#  layout:
+#    min_width: 160
+#    max_width: 1024
+#    min_height: 0
+#    border_width: 3
+#    margin_x: 10
+#    margin_y: 10
+#    spacing: 10
+#    candidate_spacing: 5
+#    hilite_spacing: 5
+#    hilite_padding: 1
+#    round_corner: 15
+#    corner_radius: 15
+#    align_type: "center"
+
 style:
   color_scheme: cof_color
   font_face: "Serif_Cof"
-  font_point: 18
+  font_point: 36
+  label_font_face: "Serif_Cof"
+  label_font_point: 36
   label_format: "%s "
+  comment_font_face: "Serif_Cof"
+  comment_font_point: 36
+  preedit_type: "composition"
   layout:
     min_width: 160
+    max_width: 1800
     min_height: 0
     border_width: 3
     margin_x: 10
@@ -442,4 +408,5 @@ style:
     hilite_spacing: 5
     hilite_padding: 1
     round_corner: 15
-  
+    corner_radius: 15
+    align_type: "center"

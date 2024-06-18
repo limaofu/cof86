@@ -1,5 +1,5 @@
 # utf-8
-# wubi86_3w.dict.yaml
+# cof86_3word.dict.yaml
 # 3字词组（共4522个词条）
 # 2020-07-02
 #
@@ -21,7 +21,7 @@
 # Wozy <wozy.in@gmail.com>
 #
 ---
-name: wubi86_3w
+name: cof86_3word
 version: "0.1"
 sort: by_weight
 columns:
@@ -2660,6 +2660,7 @@ AA制	aarm	985000
 安徽省	ptit	13800000
 寄生虫	ptjh	9570000
 安息日	ptjj	378000
+字符串	ptkk	2330002
 宇航员	ptkm	1920000
 之我见	ptmq	5520000
 农牧民	ptna	1190000

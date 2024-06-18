@@ -1,0 +1,16 @@
+{
+  "name": "gbk_code",
+  "segmentation": {
+    "type": "mmseg",
+    "dict": {
+      "type": "text",
+      "file": "gbk_code.txt"
+    }
+  },
+  "conversion_chain": [{
+    "dict": {
+      "type": "text",
+      "file": "gbk_code.txt"
+    }
+  }]
+}

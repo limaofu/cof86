@@ -1,0 +1,29 @@
+# Rime dictionary: cof86_punct
+# encoding: utf-8
+# update: 2023-03-01
+---
+name: cof86_punct
+version: "0.1"
+sort: by_weight
+
+columns:
+  - text
+  - code
+  - weight
+  - stem
+
+
+...
+# 星号
+★	jtkg	1130001
+●	lkhk	7410001
+
+
+√	dui	20001
+☑	dui	20000
+√	cf	20001
+☑	cf	20000
+×	cuo	20001
+☒	cuo	20000
+×	qaj	20001
+☒	qaj	20000
