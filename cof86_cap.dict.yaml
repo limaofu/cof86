@@ -2,7 +2,7 @@
 # encoding: utf-8
 #
 # Author: Cof-Lee
-# Date: 2020-09-11
+# Date: 2025-07-01
 #
 # extention on capital letter
 # 大写字母的扩展词库
@@ -498,6 +498,7 @@ columns:
 ﾞ	D	1100
 ﾟ	D	1100
 々	Z	20000
+〻	Z	20000
 乄	Z	20000
 〆	Z	20000
 〇	Z	20000
