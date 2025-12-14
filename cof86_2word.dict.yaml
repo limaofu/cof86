@@ -3404,6 +3404,7 @@ columns:
 预提	cbrj	630000
 预制	cbrm	1900000
 预热	cbrv	2210000
+赋权	mgsc	30000
 预配	cbsg	200
 预想	cbsh	2030000
 柔术	cbsy	265000
@@ -21699,6 +21700,7 @@ columns:
 同出	mgbm	1430000
 赋予	mgcb	14500000
 同台	mgck	3270000
+赋能	mgce	30000
 赋有	mgde	400000
 同感	mgdg	12500000
 同在	mgdh	7440000
@@ -23712,6 +23714,7 @@ columns:
 发动	ntfc	16800000
 改动	ntfc	6510000
 必需	ntfd	14600000
+必填	ntff	300000
 尾款	ntff	294000
 发起	ntfh	41500000
 改进	ntfj	41200000
@@ -27459,6 +27462,7 @@ columns:
 铺下	qggh	233000
 鱼刺	qggm	575000
 铺平	qggu	941000
+鲁班	qggy	300000
 鱼皮	qghc	1020000
 钱眼	qghv	2240000
 铺满	qgia	1510000
@@ -32429,6 +32433,7 @@ columns:
 抢建	rwvf	255000
 失灵	rwvo	2630000
 失群	rwvt	50000
+迭代	rwwa	30000
 失传	rwwf	1390000
 推倒	rwwg	3970000
 推拿	rwwg	4220000
