@@ -3436,6 +3436,7 @@ columns:
 预分	cbwv	63200
 予人	cbww	1330000
 柔化	cbwx	833000
+柔合	cbwg	3000
 预售	cbwy	4170000
 柔纱	cbxi	66800
 柔细	cbxl	675000
@@ -7517,7 +7518,6 @@ columns:
 用意	etuj	81500000
 腹部	etuk	13500000
 腹背	etux	206000
-服务端	etum	3000
 用好	etvb	8600000
 胜仗	etwd	726000
 用例	etwg	1410000
@@ -9384,6 +9384,7 @@ columns:
 志异	fnna	1250000
 专司	fnng	447000
 专书	fnnn	80800
+专属	fnnt	30000000
 韧性	fnnt	3000000
 专心	fnny	6050000
 违心	fnny	1280000
@@ -27003,7 +27004,6 @@ columns:
 神权	pysc	680000
 禅杖	pysd	326000
 福相	pysh	338000
-宿主机	pysm	373003
 禅机	pysm	373000
 福柯	pyss	133000
 祸根	pysv	960000
