@@ -4606,3 +4606,9 @@ T型台	tgck	383000
 弯弯绕	yyxa	63500
 京广线	yyxg	521000
 广州市	yyym	39000000
+
+# 新增词条 new_words，于 2026年8月11日 从cof86_cap.dict.yaml里迁移过来
+波特率	ityx	2000
+跟打器	krkk	200
+大丈夫	ddfw	11800001
+抱佛脚	rwef	436001
