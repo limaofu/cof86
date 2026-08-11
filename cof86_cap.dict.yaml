@@ -1,15 +1,17 @@
-# Rime dictionary: wubi86_cof_cap
+# Rime dictionary: cof86_cap
 # encoding: utf-8
 #
 # Author: Cof-Lee
-# Date: 2025-07-01
+# Update: 2026-08-11
 #
 # extention on capital letter
 # 大写字母的扩展词库
-# 主要扩展内容：假名( cof_kana )，新增普通字词( new_words )，
-#                大写字母字根字( cof_trad )
-#   在使用了末笔识别码后仍有第二重码常用字的，追加编码z （ cof_second_z ）
-# 单个大写辅音字母的全角符号 ( cof_punc )
+# 主要扩展内容：
+#     假名( cof_kana )
+#     新增普通字词( new_words )
+#     大写字母字根字( cof_trad )
+#     在使用了末笔识别码后仍有第二重码常用字的，追加编码z （ cof_second_z ）
+#     单个大写辅音字母的全角符号 ( cof_punc )
 ---
 name: cof86_cap
 version: "0.2"
@@ -22,7 +24,8 @@ columns:
 
 ...
 
-# cof_kana 假名
+###################################################################################
+# cof_kana 假名 仮名
 あ	A	20000
 ア	A	10000
 ｱ	A	9000
@@ -396,6 +399,7 @@ columns:
 々	Dou	20000
 
 
+###################################################################################
 #汉语拼音声调
 ā	Sda	19000
 á	Sdac	18000
@@ -458,9 +462,11 @@ columns:
 θ	TH	2100
 ð	TH	2000
 ȵ	NY	2000
-ʃ	SS	2000
+ʃ	SS	2004
 ʃ	SH	2000
 ʒ	JJ	2000
+ʒ	SS	2000
+ʒ	YY	2000
 ɬ	LL	2000
 ŋ	NG	2000
 ɛ	EE	2005
@@ -470,6 +476,7 @@ columns:
 ɐ	AA	1900
 ʊ	UU	2100
 ɤ	EE	2002
+ɤ	YY	2002
 ʌ	AA	2100
 ɔ	OO	2100
 ɑ	AA	2000
@@ -481,16 +488,8 @@ columns:
 
 ###################################################################################
 # 新增词条 new_words
-锁屏	qinu	20000
-安卓	pvhj	134001
-机柜	smsa	2000
-组播	xert	2000
-链路	qlkh	2000
-对端	cfum	2000
-路由	khmh	13900001
-波特率	ityx	2000
-华为	wxyl	2000
-挂载	rffa	2000
+# 于2026年8月11日 将 纯汉字词，迁移到 cof86_2word.dict.yaml 及 cof86_3word.dict.yaml 里了
+々	qyi	108000002
 幾	xxaw	2000
 㡬	xxan	2000
 靥	dddd	179000002
@@ -501,36 +500,10 @@ columns:
 盛	atnl	2000
 晟	jatn	200000
 戉	anv	171000002
-过会	fpwf	2000
-々	qyi	108000002
 蔻	apfc	71900
-跟打	khrs	527001
-跟打器	krkk	200
-官网	pnmq	200
-礼义	pyyq	20000
-帐号	mhkg	818000000
-正向	ghtm	7480000
-栽树	fasc	2
-抱佛脚	rwef	436001
-佛脚	wxef	2
-急时	qvjf	2
-举头	iwud	558001
-斗量	ufjg	2
-伴君	wuvt	2
-痴汉	utic	1040001
-瞒昧	hajf	2
-大丈夫	ddfw	11800001
-花好	awvb	33300001
-常满	ipia	56501
-黑发	lfnt	20
-五行	ggtf	37100001
-相害	shpd	2
-通配	cesg	2
-运维	fcxw	2
-域控	farp	2
-载荷	faaw	335001
 
 
+###################################################################################
 # 繁體字根字 cof_trad
 # Version: 1.3
 # Author: Cof-Lee
