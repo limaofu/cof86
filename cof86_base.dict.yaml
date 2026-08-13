@@ -135,6 +135,7 @@ import_tables:
   - cof86_2word
   - cof86_3word
   #- cof86_4word
+  - cof86_chengyu
   - cof86_cjk_b
   - cof86_cjk_c
   - cof86_cjk_d
@@ -15081,7 +15082,7 @@ encoder:
 鶺	iweR	44800
 沴	iwet	105000
 浍	iwfc	722000
-举	iwfh	75100000
+举	iwfh	49200
 漈	iwfi	238000
 涻	iwfk	37600
 溌	iwfq	143000
