@@ -1468,7 +1468,7 @@ columns:
 
 
 
-# R	鳥鸟 cof_trad_R
+# R	鳥鸟 cof_trad_R    【 2026年8月13日新增 爪 】
 鳥	Rthy	20000
 鴉	ahtR	20000
 鵲	ajRy	20000
@@ -1558,14 +1558,23 @@ columns:
 鷹	ywwR	20000
 
 鳥	RR	20000
+
 烏	RRR	10000
 烏	Rthy	10000
 塢	fRy	10000
 嗚	kRy	10000
 鄔	Rb	10000
 
+爪	Rthy	5000
+爬	Rc	5000
+抓	rR	5000
+㸕	Rwyc	5000
+𤓶	Rqc	5000
+𤔀	Rvc	5000
+𤔮	Rmfc	5000
+𪺐	Rbc	5000
 
-# T	與与 cof_trad_T
+# T	與与 cof_trad_T     【 2026年8月13日新增 片 】
 嶼	mTwy	20000
 櫸	sTwh	20000
 𢢎	Tn	20000
@@ -1596,10 +1605,18 @@ columns:
 𦦮	Twwg	20000
 𩁕	Twwy	20000
 譽	Twyf	20000
+版	Trc	20000
+牌	Trtf	20000
+牍	Tfnd	20000
+牒	Tans	20000
+牖	Tyny	20000
+牋	Taa	20000
+牉	Tuf	20000
+牐	Ttfv	20000
+牎	Tqrn	20000
 
 
-
-# Y	言
+# Y	言  cof_trad_Y
 藹	aYjn	20000
 靄	fYjn	20000
 滸	iYtf	20000
