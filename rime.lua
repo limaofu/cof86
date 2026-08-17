@@ -96,6 +96,9 @@ local charset = {
    ["扩E"] = { first = 0x2B820, last = 0x2CEAF },
    ["扩F"] = { first = 0x2CEB0, last = 0x2EBEF },
    ["扩G"] = { first = 0x30000, last = 0x3134A },
+   ["扩H"] = { first = 0x31350, last = 0x323AF },
+   ["扩I"] = { first = 0x2EBF0, last = 0x2EE5F },
+   ["扩J"] = { first = 0x323B0, last = 0x3347F },
    ["cjk兼容表意文字扩充"] = { first = 0x2F800, last = 0x2FA1F } }
 --- -Compat Ext就是cjk兼容象形文字（表意文字）扩充
 
