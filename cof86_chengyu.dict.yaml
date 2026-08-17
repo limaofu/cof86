@@ -1,6 +1,6 @@
 # utf-8
 # cof86_chengyu.dict.yaml
-# 4个及以上字数的成组
+# 4个及以上字数的成组/熟语
 # update: 2026-08-17
 #
 #
@@ -1145,6 +1145,7 @@ columns:
 井井有序	ffdy	1
 井井有条	ffdt	1
 井底之蛙	fypj	1
+井中之蛙	fkpj	1
 井然有序	fqdy	1
 井蛙之见	fjpm	1
 亘古未有	gdfd	1
@@ -10445,3 +10446,17 @@ columns:
 龙马精神	dcop	1
 龙骧虎步	dchh	1
 夤缘攀附	qxsb	1
+顶风作案	smwp	1
+大知闲闲	dtuu	1
+小知间间	ituu	1
+大言炎炎	dyoo	1
+小言詹詹	iyqq	1
+心胸宽广	nepy	1
+市井小人	yfiw	1
+正儿八经	gqwx	1
+身心俱疲	tnwu	1
+神情怡然	pnnq	1
+神情木然	pnsq	1
+神情黯然	pnlq	1
+神情慌张	pnnx	1
+神情凄然	pnuq	1
