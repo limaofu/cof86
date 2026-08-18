@@ -4434,6 +4434,7 @@ columns:
 雄心	dcny	4250000
 码数	dcov	107000
 码字	dcpb	1450000
+码点	dchk	3000
 友军	dcpl	994000
 雄视	dcpy	63500
 雄狮	dcqt	4030000
@@ -5128,6 +5129,7 @@ columns:
 三峡	dgmg	11000000
 三则	dgmj	2330000
 威风	dgmq	3920000
+古风	dgmq	39200
 厂内	dgmw	1410000
 威慑	dgnb	2370000
 古怪	dgnc	10300000
@@ -25237,6 +25239,7 @@ columns:
 数控	ovrp	6160000
 数千	ovtf	11000000
 数种	ovtk	1170000
+数智	ovtd	3000
 数头	ovud	34400
 数次	ovuq	4820000
 数九	ovvt	406000
@@ -32534,6 +32537,7 @@ columns:
 扒拉	rwru	420000
 失势	rwrv	237000
 捡拾	rwrw	747000
+推搪	rwry	3000
 扮酷	rwsg	895000
 扮相	rwsh	1430000
 推想	rwsh	421000
@@ -34970,6 +34974,7 @@ columns:
 刮脸	tdew	217000
 乱动	tdfc	1850000
 辞去	tdfc	3590000
+智云	tdfc	3000
 短款	tdff	1200000
 筹款	tdff	1910000
 乱真	tdfh	1470000
