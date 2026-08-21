@@ -5883,6 +5883,7 @@ columns:
 成套	dndd	11100000
 盛大	dndd	20500000
 万有	dnde	1230000
+碾压	dndf	732002
 戊辰	dndf	732000
 万古	dndg	1710000
 盛夏	dndh	8120000
@@ -5934,6 +5935,7 @@ columns:
 成因	dnld	5520000
 成团	dnlf	1010000
 万国	dnlg	10600000
+碾轧	dnln	304002
 盛典	dnma	6920000
 成凤	dnmc	248000
 成册	dnmm	1490000
@@ -9514,6 +9516,7 @@ columns:
 专任	fnwt	797000
 专人	fnww	8910000
 卖价	fnww	1990000
+块级	fnxe	3000
 专线	fnxg	12800000
 声母	fnxg	779000
 声强	fnxk	148000
@@ -21061,10 +21064,13 @@ columns:
 思情	lnng	298000
 罹祸	lnpy	12800
 轧钢	lnqm	1520000
+轧多	lnqq	3000
 轧制	lnrm	722000
+轧缺	lnrm	3000
 思想	lnsh	123000000
 轧机	lnsm	798000
 思科	lntu	8000000
+轧差	lnud	3000
 思亲	lnus	659000
 思辨	lnuy	1400000
 思念	lnwy	23000000
@@ -28588,6 +28594,7 @@ columns:
 多么	qqtc	30700000
 爻辞	qqtd	125000
 钓船	qqte	75300
+多租	qqte	75302
 钓竿	qqtf	367000
 多重	qqtg	18200000
 金牌	qqth	35400000
