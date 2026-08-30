@@ -328,7 +328,7 @@ columns:
 七老八十	afwf	1
 七零八散	afwa	1
 七零八碎	afwd	1
-七零八落	afwa	1
+七零八落	afwa	2
 七青八黄	agwa	1
 万万千千	ddtt	1
 万不得已	dgtn	1
@@ -5734,7 +5734,7 @@ columns:
 旷古未闻	jdfu	1
 旷日持久	jjrq	1
 昂头挺胸	jure	1
-昂首挺胸	jure	1
+昂首挺胸	jure	2
 昂首阔步	juuh	1
 明争暗斗	jqju	1
 明修栈道	jwsu	1
@@ -10524,3 +10524,19 @@ columns:
 乌漆麻黑	qiyl	1
 溯本正源	isgi	1
 固本浚源	lsii	1
+消息队列	itbg	6322
+事已至此	gngh	1
+抬头挺胸	rure	10
+横眉冷对	snuc	1
+横眉竖眼	shjh	1
+通货膨胀	cwee	1
+自由落体	tmaw	1
+杀人诛心	qwyn	75700
+舆人之诵	wwpy	1
+谇帚德锄	yvtq	1
+盆满钵满	wiqi	1
+马牛襟裾	crpp	1
+牛马襟裾	rcpp	1
+襟裾马牛	ppcr	1
+倒反天罡	wrgl	1
+天罡地煞	glfq	1
