@@ -2,7 +2,6 @@
 # encoding: utf-8
 # include: cjk, cjk_A  (本词库不含 cjk_b 及以上扩展，也不含0平面的兼容表意）
 # 本文件里仅含 cjk基础及cjk扩A 大约27500个单字
-# update: 2023-03-01 
 #              -------  ------
 # Changelog: 
 #   Gong Chen <chen.sst@gmail.com>
@@ -25,9 +24,9 @@
 ######################## Extention #############################
 ######################## Extention #############################
 #
-# wubi86_cof 改为 cof86 , 增加大写字母字根，删除原繁字根的编码
+# wubi86_cof 改为 cof86 , 增加大写字母字根，删除原繁字根的编码（大写字母字根放到 cof86_cap.dict.yaml 里了）
 # eXtended by:   Cof-Lee <cof8007@gmail.com>
-# eXtended date: 2021-01-20 -- 2026-08-14
+# eXtended date / update: 2021-01-20 --> 2026-09-01
 # eXtention:
 #
 #    ①！！！！删除了4字及以上的词条！！！！！
@@ -41,7 +40,13 @@
 #    ⑥提取权重为0的字到 cjk_b 词库中了
 #    ⑦增加2个字的unicode字形的五笔编码：橩 & 䕈
 #    ⑧本文件内调整了一些词序! 如下：
-#
+##
+# 注意： 蔻、靥、嘉：86 王码原版有末笔 L 容错改码
+#    蔻 理论：apfc  改码：apfl
+#    靥 理论：dddd  改码：dddl
+#    嘉 理论：fkuk  改码：fkul
+# 补充： 嵊 shèng（嵊泗）    理论：mtux 部分老库改末码为：mtuq，属于同类人为调整，不是 L 改码，相对少见
+# 以上4个字在本词库都有收录（兼容老用户习惯），无论末笔按哪个键都能打出
 
 ---
 name: cof86_base
@@ -9080,7 +9085,8 @@ encoder:
 磊	dddf	21600000
 㔏	dddj	4600
 飆	dddj	6300000
-靥	dddl	1400000
+靥	dddd	179000008
+靥	dddl	179000008
 砺	dddn	1910000
 飙	dddq	6810000
 猋	dddu	94900
@@ -11386,6 +11392,7 @@ encoder:
 䶀	fkuk	4880
 喜	fkuk	98600000
 嘉	fkuk	143000000
+嘉	fkul	143000000
 嚭	fkuk	790000
 囍	fkuk	1900000
 鼛	fkuk	30800
@@ -15802,8 +15809,10 @@ encoder:
 晽	jssy	48800
 㪙	jsty	3800
 蜙	jswc	22800
-昇	jtaj	13300000
-虴	jtan	124000
+昇	jta	13300002
+昇	jtaj	13300002
+虴	jta	13300000
+虴	jtan	13300000
 蛞	jtdg	312000
 蜂	jtdh	39200000
 蜘	jtdk	1250000
@@ -18761,6 +18770,8 @@ encoder:
 㠅	mttt	5260
 嵙	mtuf	77900
 嵊	mtux	847000
+嵊	mtuq	847000
+峂	mtu	25100
 峂	mtuy	25100
 巍	mtvc	7400000
 崣	mtvf	602000
